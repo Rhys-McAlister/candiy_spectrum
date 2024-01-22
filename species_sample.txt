@@ -1,0 +1,2000 @@
+C9H13ClO2	C9H13ClO2	72764-18-2
+4H,6H-Dithieno[3,4-c:3',4'-e]oxepin	C10H8OS2	23062-34-2
+Jacozine	C18H23NO6	5532-23-0
+1,3-Hexanediol	C6H14O2	21531-91-9
+3-Hexene, 3-methyl-, (E)-	C7H14	3899-36-3
+Diphosphene, bis(2,4,6-tri-tert-butylphenyl)-	C36H58P2	79073-99-7
+3,5-diphenylpyrazole	C15H12N2	1145-01-3
+Endo-2-aminonorbornane	C7H13N	31002-73-0
+2-(M-hydroxyphenoxy)-3-methyl pyrazine	C11H10N2O2	95390-42-4
+Benzenepropanol, &#945;,&#945;-dimethyl-	C11H16O	103-05-9
+CH3O[CH2CH2CH2O]3CH3	C11H24O4	66226-75-3
+24-Dihydroeuphol acetate	C32H54O2	38602-31-2
+&#956;<sup>3</sup>-Phenylmethylidyne-tricobalt nonacarbonyl	C16H5Co3O9	13682-03-6
+Iron, dicarbonyltris(phosphorus trifluoride)-	C2F9FeO2P3	16388-46-8
+Nicotinic acid hydrazide	C6H7N3O	553-53-7
+1-Buten-3-yl radical	C4H7	65338-31-0
+3-methyl-1,3-butanediol	C5H12O2	2568-33-4
+N-methyl-m-chlorobenzylidenimine	C8H8ClN	90434-25-6
+HCBr3+	CHBr3+	100483-62-3
+Naphthalene, 2-chloro-	C10H7Cl	91-58-7
+benzene, 1-ethyl-4-propyl-	C11H16	20024-90-2
+9-Azabicyclo[3.3.1]nonane,9-ethyl-	C10H19N	64776-29-0
+3(5)-phenylpyrazole	C9H8N2	2458-26-6
+Phosphine	H3P	7803-51-2
+Methyl radical anion	CH3-	15194-58-8
+Methyl (2-nitrophenyl)acetate	C9H9NO4	30095-98-8
+2-Methyl-2-octene	C9H18	16993-86-5
+3-Bromobenzoic acid nitrile	C7H4BrN	6952-59-6
+Benzene, 1-methyl-2,3-dinitro-	C7H6N2O4	602-01-7
+5-Methyl-4-octanol	C9H20O	59734-23-5
+1,1,2,2-Cyclobutanetetracarbonitrile, 3-methoxy-3-phenyl-	C15H10N4O	73408-16-9
+2-Methyl-2-propenyl p-tolyl sulphone	C11H14O2S	16192-04-4
+Benzimidazole, 4-bromo-6-nitro-2-(trifluoromethyl)-	C8H3BrF3N3O2	6609-37-6
+Pd12	Pd12	150385-99-2
+Tricyclo[3.2.2.0<sup>2,4</sup>]nonane,6,7-bis(methylene)-(1&#945;,2&#946;,4&#946;,5&#945;)-	C11H14	36439-90-4
+Cyclopentanone, 2,5-dimethyl-	C7H12O	4041-09-2
+Benzene, 1,2-dichloro-4,5-dimethoxy-,	C8H8Cl2O2	2772-46-5
+Indole-3-acetic acid, 4-chloro-2-methyl-	C11H10ClNO2	6127-20-4
+propane, 1,1,1,2-tetrachloro-3,3,3-trifluoro-2-methyl-	C4H3Cl4F3	374-44-7
+Bis(3-indolylethyl)amine	C20H21N3	94685-68-4
+Benzenamine,N-[(3-methylphenyl)methylene]-4-nitro-	C14H12N2O2	62453-03-6
+1-Chloromethyl-4-methylnaphthalene	C12H11Cl	5261-50-7
+N-(2,6-Dimethylphenyl)aziridine	C10H13N	78376-90-6
+Tetraiodothiophene	C4I4S	19259-11-1
+Isothiocyanic acid, m-chlorobenzyl ester	C8H6ClNS	3694-58-4
+Spirohex-1-ene	C6H8	71153-32-7
+1,3,3-Trimethylspiro[indoline-2,2'-[2H]phenanther[9,10-b][1,4]oxazine]	C26H22N2O	119980-36-8
+7-Octen-2-ol, 2,6-dimethyl-	C10H20O	18479-58-8
+Disulfur monoxide	OS2	20901-21-7
+p-(1H-1,2,4-Triazol-1-yl) phenol	C8H7N3O	68337-15-5
+Methyltrivinylsilane	C7H12Si	18244-95-6
+2-Methylcyclopropanecarboxylic acid	C5H8O2	29555-02-0
+5-Dodecene, (E)-	C12H24	7206-16-8
+Butanoic acid, 4-chloro-	C4H7ClO2	627-00-9
+1,2,5-tricarbomethoxynaphthalene	C16H14O6	68267-11-8
+Phenol, p-propyl-,	C9H12O	34591-34-9
+Isocyanocyclobexanemolybdenum pentacarbonyl	C12H11MoNO5	15603-76-6
+Naphthalene,decahydro-4a-methoxy-8a-methyl-cis-	C12H22O	17987-54-1
+indole, 2,4,6,7-tetramethyl-	C12H15N	1201-00-9
+Digermaselenane	H6Ge2Se	24254-18-0
+Propane-1,1,1,3,3,3-d6	C3H2D6	2875-96-9
+N-hexylpiperidine	C11H23N	7335-01-5
+Eicosane, 10-hexyl-10-methyl-	C27H56	55282-32-1
+C7H8O2S	C7H8O2S	15105-62-1
+1H,1H-Pentafluoropropyl iodide	C3H2F5I	354-69-8
+Tellurium, bis(1-methylethyl)-	C6H14Te	51112-72-2
+Pyrene, 4-nitro-	C16H9NO2	57835-92-4
+1-Pyrrolidinecarboxamide	C5H10N2O	4736-71-4
+2-isobutyl-1,1'-biphenyl	C16H18	66325-19-7
+2-methylpropyl octanoate	C12H24O2	5461-06-3
+2-Propenoic acid, 1,4-butanediyl ester	C10H14O4	1070-70-8
+Cyclopropanecarbamic acid, n-phenethyl-, ethyl ester	C14H19NO2	116373-13-8
+5-Octadecyne	C18H34	71899-42-8
+Tris(1h,1h,5h-octafluoropentyl)phosphate	C15H9F24O4P	355-86-2
+3,3,5,5-tetramethylcyclohexene	C10H18	34265-90-2
+Hexadecyl chloroacetate	C18H35ClO2	52132-58-8
+Benzene, 1-chloro-2-methyl-3-nitro-	C7H6ClNO2	83-42-1
+1-P-chlorophenyl-3,3-dimethyl-2-thiourea	C9H11ClN2S	2212-17-1
+Calcium monoxide	CaO	1305-78-8
+Triazolo [4,5-d]pyrimidine-,3h-v-,7(6h)-thione-, 5-amino-3-butyl-	C8H12N6S	92352-41-5
+Nonaborane(9), nonachloro-	B9Cl9	12008-47-8
+Sulfuric acid, monooctyl ester	C8H18O4S	110-11-2
+Propane, 1-[(1-methylethyl)thio]-	C6H14S	5008-73-1
+Zirconium iodide	I2Zr	15513-85-6
+Chloramphenicol	C11H12Cl2N2O5	56-75-7
+quinoline, 8-ethyl-6-nitro-	C11H10N2O2	91138-10-2
+4-Hydroxybenzo[b]thiophene	C8H6OS	3610-02-4
+3,4-dimethylbiphenyl	C14H14	4433-11-8
+Galactaric acid	C6H10O8	526-99-8
+Methanimidamide, N'-(3-methoxyphenyl)-N,N-dimethyl-	C10H14N2O	1202-42-2
+Methane sulfonamide	CH5NO2S	3144-09-0
+Tangeretin	C20H20O7	481-53-8
+2-Ketobutyric acid, enol, di-TMS, #1	C10H22O3Si2	55590-70-0
+Poly-L-phenylalanine	(C9H9NO)n	25191-15-5
+1,3,3,5,5-pentamethylcyclohexene	C11H20	500031-81-2
+1-Hexen-3-yne, 2-methyl-	C7H10	23056-94-2
+Ethanone, 1,1'-(1,4-phenylene)bis-	C10H10O2	1009-61-6
+(Pentafluorophenyl)hydrazine	C6H3F5N2	828-73-9
+Benzoic acid, 3-fluoro-4-nitro-	C7H4FNO4	403-21-4
+1(2H)-Naphthalenone, 3,4-dihydro-5,7-dimethyl-	C12H14O	13621-25-5
+Bis(&#951;<sup>8</sup>-cyclobutenooctatetraene) uranium	C20H20U	70377-87-6
+Benzimidazole, 4,6-dinitro-2-(trifluoromethyl)-	C8H3F3N4O4	6609-38-7
+Tetraethylammonium tetrachloroferrate	C8H20Cl4FeN	14240-75-6
+2-(3'-methyl-2'-butenyl)-3-methylfuran	C10H14O	15186-51-3
+Methanone, (2,4-dihydroxyphenyl)phenyl-	C13H10O3	131-56-6
+(1,2-nonadiene)	C9H16	22433-33-6
+Urea-1-tetradecene adduct	C2.H24.N18O9	27610-35-1
+1,3,5-Triazine-2,4-diamine, 6-chloro-N,N,N'-triethyl-	C9H16ClN5	1912-26-1
+2-Propenenitrile, 3-(2-thienyl)-	C7H5NS	6041-28-7
+Acridine 10-oxide	C13H9NO	10399-73-2
+Ethyl ethoxymethyl ketone	C6H12O2	76086-05-0
+N-acetyl-Tyr	C11H13NO4	537-55-3
+1,2,3-Triazine	C3H3N3	289-96-3
+Purine, 2-amino-6-methyl-	C6H7N5	1681-10-3
+cis-4-Tert-butylcyclohexane carbonyl chloride	C11H19ClO	28467-41-6
+c-HFC=NF	CHF2N	59012-20-3
+Cycloandrostan-6,17-dione, 3alpha,5alpha-,	C19H26O2	13713-90-1
+1-Pentyn-3-ol, 3,4-dimethyl-	C7H12O	1482-15-1
+1,2-Methanodicyclopropa[cd,gh]pentalene,octahydro-3-methylene-	C10H10	64630-96-2
+Tetrapentacontane	C54H110	5856-66-6
+Neodymium tribromide	Br3Nd	13536-80-6
+1,5-Propano-2H-1,5-benzodiazepine, 3,4-dihydro-	C12H16N2	73023-02-6
+N-Benzylglycine ethyl ester	C11H15NO2	6436-90-4
+1,2-Diacetyl-1,2-diphenylhydrazine	C16H16N2O2	793-25-9
+5-Androstene-3beta,17beta-diol,16beta-ylacetic acid, lactone	C21H30O3	10458-98-7
+o-Ethyl dichlorothiophosphate	C2H5Cl2OPS	1498-64-2
+Naphthalene, 1,2,3,4-tetrahydro-6-methyl-	C11H14	1680-51-9
+Methanimidamide,N'-[3-(dimethylamino)phenyl]-N,N-dimethyl-	C11H17N3	53666-32-3
+3-Nitroacenaphthenone-1	C12H7NO3	5386-10-7
+2-Isopropyl-5-methyl-9-methylene-bicyclo-1-decene(4.4.0)	C15H24	150320-52-8
+Iron, [5,10,15,20-tetraphenyl-21H,23H-porphinato(2-)-N21,N22,N23,N24]-, (sp-4-1)-	C44H28FeN4	16591-56-3
+Naphthalene, 1-azido-	C10H7N3	6921-40-0
+methoxymethyl fluoride	C2H5FO	460-22-0
+1-Phospha-1-butyne, 3,3-dimethyl-	C5H9P	78129-68-7
+Cyclooctadecanone	C18H34O	6907-37-5
+1-Phenyl-2-butanone	C10H12O	1007-32-5
+1,4-dimethyl-1-propylpentyl ethanoate	C12H24O2	500002-30-2
+1,1,1-Pentanetricarboxylic acid, triethyl ester	C14H24O6	3272-32-0
+Heptane, 2,4,5-trimethyl-	C10H22	20278-84-6
+1H-1,2,4-Triazole, 3-propyl-	C5H9N3	19932-60-6
+2,3-Diazabicyclo[2.2.2]oct-2-ene,2-oxide	C6H10N2O	25926-96-9
+Monobenzone	C13H12O2	103-16-2
+p-Iodoanil	C6I4O2	576-59-0
+1-Bromo-2,2-difluoroethylene	C2HBrF2	359-08-0
+Fe-tetra(2-(NHCOtBu)phenyl)porphyrin radical	C64H64FeN8O4	52629-13-7
+4-Androstene-17-beta-ol-3-one, 19-nor-delta-, phenylpropionate	C27H34O3	62-90-8
+1,6-Diphenylhexadiene	C18H18	16819-47-9
+Benzene, (4-bromobutoxy)-	C10H13BrO	1200-03-9
+Benzoic acid,4-(dicyclohexylphosphino)-ethyl ester	C21H31O2P	40438-59-3
+2-Cyclohexenone, 5,5-dimethyl-	C8H12O	4694-17-1
+Undecyl sulfuric acid	C11H24O4S	4297-99-8
+Benzaldehyde, 3,4-dichloro-	C7H4Cl2O	6287-38-3
+Sucrose, permethyl	C20H38O11	5346-73-6
+1-Nonen-3-ol, acetate	C11H20O2	31795-37-6
+Purine, 7-benzyl-2,6-dichloro-	C12H8Cl2N4	56025-87-7
+cis-vaccenic acid	C18H34O2	506-17-2
+cyclohexanethiol, 3-methyl-	C7H14S	38699-50-2
+1H-Indazole	C7H6N2	271-44-3
+Dinitrogen-N-sulfide	N2S	56400-02-3
+Cyclodecanone	C10H18O	1502-06-3
+Manganate(1-), tetracarbonylchloroiodo-	C4ClIMnO4	121175-75-5
+Hexane, 1-nitro-	C6H13NO2	646-14-0
+2-hexanone, 4,5-dimethyl-	C8H16O	40239-02-9
+3-Tetradecyne	C14H26	60212-32-0
+Benzene, 1-cyclopropyl-3-methyl-	C10H12	19714-73-9
+Benzenamine, 2,4,6-trimethyl-N-sulfinyl-	C9H11NOS	39898-48-1
+9-Thiabicyclo[4.2.1]nonane	C8H14S	6522-54-9
+		56424-77-2
+8-Azabicyclo[3.2.1]octane, 8-methyl-3-phenoxy, endo-	C14H19NO	16487-37-9
+2-Butene, 2-chloro-3-methyl-	C5H9Cl	17773-65-8
+2-Furyl-dimethylsilane	C6H10OSi	13271-68-6
+Benzaldehyde, 4-methoxy-, oxime, (E)-	C8H9NO2	3717-21-3
+Tetrachlorobis-(n-propylammonium) cadmium II	C6H20CdCl4N2	53188-87-7
+Thiophene, 2-ethyl-5-propyl	C9H14S	54244-74-5
+1,2-Ethanediol, 1,1,2,2-tetrakis(4-methylphenyl)-	C30H30O2	913-86-0
+Diphenylcyclohexylphosphine oxide	C18H21OP	13689-20-8
+2,2',5,5'-Tetrachlorobiphenyl	C12H6Cl4	35693-99-3
+2-Nonynamide	C9H15NO	3910-40-5
+m-Nitroaniline	C6H6N2O2	99-09-2
+hexacosane, 1-bromo-	C26H53Br	4276-51-1
+2,2'-Dithio bis 4-(n-heptylsulfonylmethyl) thiazole	C22H36N2O4S6	95288-82-7
+Lutetium tribromide	Br3Lu	14456-53-2
+DL-Serine	C3H7NO3	302-84-1
+N-Propyl 2-nitrato ethyl nitramine	C5H11N3O5	82486-83-7
+2,6,7-Trioxa-1,4-diphosphabicyclo[2.2.2]octane	C3H6O3P2	4579-03-7
+Sodium sulfide	Na2S2	22868-13-9
+N,n-dimethyl-p-methyl phosphonamidic acid, isopropyl ester	C6H16NO2P	2511-07-1
+2,3,4-Hexatriene, 2,5-dimethyl-	C8H12	2431-31-4
+9-Octadecenoic acid, d-12-acetoxy-, (z), methyl ester	C21H38O4	140-03-4
+4H-1,2,4-Triazole,3-chloro-4-methyl-	C3H4ClN3	56616-87-6
+N,N-Diethyl-2,3,3,3-tetrafluoropropionamide	C7H11F4NO	392-63-2
+Benzene, 1,1'-(1,2-ethenediyl)bis[4-nitro-, (E)-	C14H10N2O4	736-31-2
+FCO2C2H5	C3H5FO2	461-64-3
+3,3,6,6-tetramethylcyclohexene	C10H18	50740-76-6
+Nickel bromide	Br2Ni	13462-88-9
+Tricyclo[3.3.1.1<sup>3,7</sup>]decane-3-ol-1-carboxylic acid, methyl ester	C12H18O3	68435-07-4
+4-methyl-6-propylundecane	C15H32	92867-14-6
+2,2,3,3,4,4,4-Heptafluoro-butyric acid hexyl ester	C10H13F7O2	336-65-2
+2-nonanone, 4-methyl-	C10H20O	67639-92-3
+Bis(cyclopentadienyl)technetium hydride	C10H11Tc	12116-92-6
+Ethanol, 2-(2-propenyloxy)-	C5H10O2	111-45-5
+&#945;-Cedrane	C15H26	13567-54-9
+Naphthalene, 1-ethyl-1,2,3,4-tetrahydro-	C12H16	13556-58-6
+4-Methoxybenzoic acid anhydride	C16H14O5	794-94-5
+[1-(2-Phenylethyl)vinyl]benzene	C16H16	16606-47-6
+C56	C56	133727-21-6
+2-Chloro-4-cyclohexyl phenol	C12H15ClO	3964-61-2
+1,1,1,2-tetracyclohexylethane	C26H36	500037-74-1
+Cyclohexane, 1-ethyl-2-methyl-, trans-	C9H18	4923-78-8
+Furan, tetrahydro-2,2-diphenyl-	C16H16O	887-15-0
+2-Heptanol butanoate	C11H22O2	39026-94-3
+Propanoyl chloride, 3-chloro-	C3H4Cl2O	625-36-5
+Manganese N,N'-ethylene(salicylideneiminate)	C16H14MnN2O2	13928-31-9
+2-heptanone, 3-ethyl-	C9H18O	6137-09-3
+Benzo[b]naphtho[2,3-d]thiophene, 8-methyl	C17H12S	24964-07-6
+Difluoroaminosulfonyl fluoride	F3NO2S	13709-30-3
+4H-1-Benzopyran-4-one, 5-hydroxy-7-methoxy-2-phenyl-	C16H12O4	520-28-5
+pyrrolidine, 3,3-dimethyl-	C6H13N	3437-30-7
+P-toluenesulfonamide, n-(4-acetamidobutyl)-	C13H20N2O3S	15440-82-1
+2-Chlorohexanoic acid, chloromethyl ester	C7H12Cl2O2	80418-53-7
+Indium monotelluride	InTe	12030-19-2
+Tricyclo[4.1.0.0<sup>2,7</sup>]hept-3-ene,1,3-dimethyl-	C9H12	66036-92-8
+Undecanoic acid, ethyl ester	C13H26O2	627-90-7
+Propionic acid 2-phenylhydrazide	C9H12N2O	20730-02-3
+Dichloromethyl radical	CHCl2	3474-12-2
+2-(P-dodecylphenoxy) pyrazine	C22H32N2O	116660-31-2
+Ethyl 6-bromohexanoate	C8H15BrO2	25542-62-5
+Hydrogen sulfide	H2S	7783-06-4
+Tetrabutylammonium hydrogen sulfate	(C4H9)4NHSO4	32503-27-8
+1,8-Diethenylnaphthalene	C14H12	17935-66-9
+2-Methoxy-3-methyl-4-oxo-1-pentene	C7H12O2	82481-17-2
+Aminomethanesulfonic acid	CH5NO3S	13881-91-9
+3Alpha,6alpha-diphenylglycoluril	C16H14N4O2	5157-15-3
+2-Bromovaleric acid	C5H9BrO2	584-93-0
+Cyclohexane, 1-propylnonyl	C18H36	13151-84-3
+2,6-Dimethyl-5,7-octadiene (cis)	C10H18	6874-36-8
+&#945;-D-Glucopyranoside, &#945;-D-glucopyranosyl	C12H22O11	99-20-7
+N,n'-methylenebis-n-dodecanamide	C25H50N2O2	5136-45-8
+1,2-Ethanediamine, N-ethyl-	C4H12N2	110-72-5
+HS-CH=C=S	C2H2S2	84601-08-1
+1-Butene, 2-(1,1-dimethylethyl)-3,3-dimethyl-	C10H20	5857-68-1
+1-Allyl-1-[(allylamino)carbonyl]-2-oxohydrazine	C7H11N3O2	60285-29-2
+2,3-Dichlorothiophene-5-sulfonyl chloride	C4HCl3O2S2	126714-85-0
+Felbamate	C11H14N2O4	25451-15-4
+Bicyclo[2.2.1]hept-2-ene,5-methoxy-endo-	C8H12O	17190-92-0
+Prop-1-en-1-ol, 2-methyl-	C4H8O	56640-70-1
+Quinoline, 3-methyl-	C10H9N	612-58-8
+Molybdenum bromide	Br2Mo	13446-56-5
+5,5'-Methylene-bis(2-keto-1,3-dimethyltetrahydro-1,3,5-triazine	C11H22N6O2	126591-36-4
+arsine oxide, diheptylhydroxy-	C14H31AsO2	6757-53-5
+Acetyl chloride, dichlorophosphinyl-	C2H2Cl3O2P	34164-06-2
+Nicotinamide, 1,6-dihydro-4-hydroxy-6-oxo-	C6H6N2O3	5466-41-1
+Methanone, dicyclohexyl-	C13H22O	119-60-8
+Triamylamine, hydrochloride	C15H34ClN	23307-03-1
+2-(Diacetoxymethyl)furan	C9H10O5	613-75-2
+Chloromethylmethyl sulfide	C2H5ClS	2373-51-5
+2-Ketoadipic acid, oxime, TMS	C15H33NO5Si3	59-78-9
+ClBrCl-	BrCl2-	14522-78-2
+Benzene, 1,3,5-trimethyl-2-(1-methylethenyl)-	C12H16	14679-13-1
+Methane-d3,(methylthio)	C2H3D3S	4752-12-9
+endo-Bicyclo[2.2.1]hept-5-en-2-carboxylic acid, methyl ester	C9H12O2	2903-75-5
+3'-(3-Methoxy-1,3,5(10)-estratrien-16beta-yl)propiono-1',17beta-lactone	C22H28O3	95809-84-0
+Ethanethioic acid, S-pentyl ester	C7H14OS	2432-32-8
+&#946;-Cubebene	C15H24	13744-15-5
+Phenanthrene, 2,7-dimethyl-	C16H14	1576-69-8
+3-(4-Anilino-1-naphthylazo)-2,7-naphthalene disulfonic acid	C26H19N3O6S2	57322-42-6
+Benzenecarbothioic acid, 4-(1,1-dimethylethyl)-s-(methyl-d3) ester	C12H13D3OS	82505-06-4
+Bicyclo[5.1.0]octane	C8H14	286-43-1
+XeCl2	Cl2Xe	13780-38-6
+o-Chlorophenethyl alcohol	C8H9ClO	19819-95-5
+Cyclopentane,methoxy-	C6H12O	5614-37-9
+&#945;-n-Hexyl cinnamic aldehyde	C15H20O	30669-47-7
+Morpholine	C4H9NO	110-91-8
+S,S,S-Tributyl phosphorotrithioate	C12H27OPS3	78-48-8
+HNO2S	HNO2S	160092-11-5
+4-Toluenesulfonamide, n-ethyl-	C9H13NO2S	80-39-7
+Phosphorane, allylidenetrimethyl-	C6H13P	30417-65-3
+Naphtho[1,8',8:c,d]cyclodeca-1,5-diiyne	C17H12	32137-40-9
+2-Hexenal, 2-ethyl-	C8H14O	645-62-5
+Benzenamine, N,N-diethyl-2-methyl-	C11H17N	606-46-2
+Benzenevanadium	C6H6V	61332-91-0
+Acrylophenone, 3,3-diphenyl-	C21H16O	849-01-4
+Ornithine dihydrochloride	C5H14Cl2N2O2	6211-16-1
+Phosphonic acid, phenyl-, dibutyl ester	C14H23O3P	1024-34-6
+2,6-Heptanedione	C7H12O2	13505-34-5
+3-Nonanone	C9H18O	925-78-0
+Phosphonic acid, butyl-, ethyl ester, diester with 1,4-butanediol	C16H36O6P2	5284-06-0
+Dinitrogen monohydride	HN2	36882-13-0
+Tricyclo[3.3.1.1<sup>3,7</sup>]decane, 1-(3,3-dimethyl-1-butynyl)-	C16H24	103185-26-8
+Benzeneacetic acid, 2-propenyl ester	C11H12O2	1797-74-6
+tetracosanenitrile	C23H47N	95804-62-9
+Benzenamine, N,N,3-trimethyl-	C9H13N	121-72-2
+Hexadecyl isothiocyanate	C17H33NS	4426-87-3
+Propanenitrile, 3-(dimethylamino)-	C5H10N2	1738-25-6
+Dimethyl allylphosphonate	C5H11O3P	757-54-0
+Isobutyraldehyde isobutylhydrazone	C8H18N2	21041-71-4
+Acetic acid, 5-nitroimidazole-4-carboxamido-, ethyl ester	C8H10N4O5	197912-16-6
+Bismuthine, trimethyl-	C3H9Bi	593-91-9
+[1,1'-Biphenyl]-2-yl 4-tert-butylphenyl phenyl phosphate	C28H27O4P	116401-98-0
+2,3,4,6-Tetrachlorophenyl acetate	C8H4Cl4O2	5435-60-9
+4-hydroxy-2,5-cyclohexadien-1-one	C6H6O2	4323-21-1
+4-Nitro-3-picoline-N-oxide	C6H6N2O3	1074-98-2
+Tetracyclo[5.3.0.0<sup>2,6</sup>.0<sup>3,10</sup>]decane	C10H14	34511-84-7
+1,1'-biphenyl, 4-(difluoromethoxy)-3-fluoro-4'-(4-propylcyclohexyl)-, trans-	C22H25F3O	137554-94-0
+Bis(phenylthio)methane	C13H12S2	3561-67-9
+Aniline, n-tert-butyl-2-chloro-	C10H14ClN	939-36-6
+Phosphonic acid, methyl-, o,o-bis-(3,3-dimethyl butyl) ester	C13H29O3P	116401-88-8
+Bicyclo[1.1.0]butane-1-carboxcylic acid methyl ester	C6H8O2	4935-01-7
+p-n-Hexyloxybenzylidene-p'-toluidine	C20H25NO	25959-51-7
+Benzene, 1-methyl-2-(phenylthio)-	C13H12S	13963-35-4
+Phenol,2,6-difluoro-,acetate	C8H6F2O2	36914-78-0
+Azocine, 1-dimethylamino-octahydro-	C9H20N2	68970-11-6
+16-Azatricyclo[9.2.2.1<sup>4,8</sup>]hexadeca-4,6,8(16),11,13,14-hexaene,12,13,14,15-tetramethyl-	C19H23N	70389-15-0
+trans-Shisool	C10H18O	22451-48-5
+Brallobarbital	C10H11BrN2O3	561-86-4
+1-Octadecanol	C18H38O	112-92-5
+1-Propanamine, N,N-dipropyl-, compound with bromine(1:1)	C9H21Br2N	59777-82-1
+p-Phenoxystyrene	C14H12O	4973-29-9
+2,4-Dibromophenyl propionate	C9H8Br2O2	23689-34-1
+Hexanoic acid, chloromethyl ester	C7H13ClO2	66542-51-6
+Methanediamine, N,N'-dimethyl-N,N'-dinitro-	C3H8N4O4	13232-00-3
+Thieno[2,3-b]thiophene,3-bromo-	C6H3BrS2	25121-84-0
+perfluorotetradecane	C14F30	307-62-0
+7,11-dimethyloctadecane	C20H42	65431-89-2
+3&#945;,7&#946;-Dihydroxy-5&#946;-cholanoic acid, MeTMS	C31H58O4Si2	63813-73-0
+1-Methylcarbazole	C13H11N	6510-65-2
+1-Anilino-4-aminoanthraquinone	C20H14N2O2	4395-65-7
+Pyridazine,hexahydro-1,2,3,6-tetramethyl,trans-	C8H18N2	38704-91-5
+Piperazine	C4H10N2	110-85-0
+Thionyl fluoride	F2OS	7783-42-8
+Pimelic acid, diTBDMS	C19H40O4Si2	104255-95-0
+2-Chloro-3-methylnaphthoquinone	C11H7ClO2	17015-99-5
+Docosane, 7-butyl-	C26H54	55282-15-0
+2-Cyclohexen-1-one, 3-methyl-	C7H10O	1193-18-6
+3,4-Dimethoxyphenylacetone	C11H14O3	776-99-8
+(1S,2S)-(+)-1,2-Diaminocyclohexane	C6H14N2	21436-03-3
+Demeton-S-methyl-sulphone	C6H15O5PS2	17040-19-6
+2,5-Dibromobenzoic acid	C7H4Br2O2	610-71-9
+p-Nitrobenzylidene-p-isopropylphenylacetonitrile	C18H16N2O2	53407-78-6
+Al9	Al9	141348-05-2
+2-Butynedioic acid	C4H2O4	142-45-0
+1,3-Benzodioxole, 5-ethenyl-	C9H8O2	7315-32-4
+4-Biphenylamine, 4'-methyl-	C13H13N	1204-78-0
+Trimethyl phosphonoacetate	C5H11O5P	5927-18-4
+cis-1,1-Difluoro-2-methyl-3-vinylcyclopropane	C6H8F2	79517-49-0
+Perfluoro-1-methyldecalin	C11F20	306-92-3
+Chromium, bis[(1-fluoro-4-trifluoromethyl)phenyl]-	C14H8CrF8	57821-01-9
+Tricyclopentabenzene	C15H18	1206-79-7
+Borane	H3B	13283-31-3
+Benzenamine, N-methyl, mono-TMS	C11H19NSi	14884-70-9
+Carbonothioic dichloride	CCl2S	463-71-8
+1,5-Naphthyridine 1,5-dioxide	C8H6N2O2	27305-49-3
+Benzoic acid, 6-furfurylamino-3-sulfamoyl-4-trifluoromethyl-	C13H11F3N2O5S	17642-12-5
+4,7-Methano-5H-inden-5-one, octahydro-	C10H14O	13380-94-4
+1-Benzoylnaphthalene	C17H12O	642-29-5
+Diethyltartrate dinitrate	C8H12N2O10	13454-52-9
+Butanoic acid, 2-methyl-, 2-methylpropyl ester	C9H18O2	2445-67-2
+2-Methoxy-3-methyl pyrazine	C6H8N2O	2847-30-5
+Cyclohexanamine, N-ethyl-	C8H17N	5459-93-8
+Tri-n-butylphosphate	C12H27O4P	126-73-8
+1,4-Piperazinedicarboxamide, 2-methyl-,	C7H14N4O2	116594-99-1
+1-Propene, 3-ethoxy-	C5H10O	557-31-3
+Beryllium cation	Be+	14701-08-7
+(S)-(+)-Isoleucinol	C6H15NO	24629-25-2
+1-Bromo-2,4-dichlorobenzene	C6H3BrCl2	1193-72-2
+Ethyl cyclopropanecarboxylate	C6H10O2	4606-07-9
+phenol, 3-ethyl-4,5-dimethyl-	C10H14O	62126-75-4
+n-Perfluorododecane	C12F26	307-59-5
+2-Chloro-6-fluorobenzyl cyanide	C8H5ClFN	75279-55-9
+Dibenzo[hi,uv]hexacene	C32H18	192-54-1
+Isoxazolidine	C3H7NO	504-72-3
+2-Propenoic acid, 3-hydroxy-2-methyl-, ethyl ester	C6H10O3	54843-13-9
+1-Isopropyl-2,3-dimethylbenzene	C11H16	22539-65-7
+Ethanone, 2-bromo-1-(4-nitrophenyl)-	C10H12BrNO	37904-72-6
+4-Ethoxyisonitrosoacetanilide	C10H12N2O3	17122-74-6
+1,3-Hexanediol, 2-ethyl-	C8H18O2	94-96-2
+2,6-Dichloro-4-trifluoromethylpyridine	C6H2Cl2F3N	39890-98-7
+4-Methoxyphenyl diazenyl radical	C7H7N2O	17333-79-8
+Butane, 1-bromo-2-methyl-, (S)-	C5H11Br	534-00-9
+N-(3-Phenoxy-2-hydroxypropyl)-butylamine	C13H21NO2	3246-04-6
+O-nitro carbanilic acid, n-dodecyl ester	C19H30N2O4	94432-00-5
+Urea,N-(2-chlorophenyl)-N'-ethyl-	C9H11ClN2O	62635-53-4
+Urea, 1-[p-(dimethylaminophenyl)]-3-methyl-	C10H15N3O	6956-24-7
+		177356-72-8
+1,1'-Biphenyl, 2,3,4,4'-tetrachloro-	C12H6Cl4	33025-41-1
+1,1-diphenyl-1-pentene	C17H18	1530-11-6
+2-(2-Phenylvinyl)pyridine, cis	C13H11N	1519-59-1
+Hexadecane	C16H34	544-76-3
+Ethylene, 2-bromo-1,1-diphenyl-	C14H11Br	13249-58-6
+2-Cyclopenten-1-one,3-hydroxy-2-methyl-	C6H8O2	5870-63-3
+Rhodanine, 5-benzylidene-3-phenyl	C16H11NOS2	13037-56-4
+3-Aza-1,1,1,3,6,6,6-heptanitroheptane	C5H6N8O14	71742-94-4
+Ethyl-(Z)-3-(N'-methyl-N'-phenylhydrazino)-2-butanoate	C13H18N2O2	33604-10-3
+1,2-Cyclohexanedicarboxylic acid, diethyl ester	C12H20O4	10138-59-7
+Iron, tricarbonyl[(1,2,3,4-&#951;<sup>4</sup>)-1,3,5,7-cyclooctatetraene]-	C11H8FeO3	12093-05-9
+1,4,7-Triazacyc[3.3.3]azine	C9H6N4	24913-14-2
+1-(2-Nitrophenyl)pyrrole	C10H8N2O2	33265-60-0
+2H-Pyran-2-one, tetrahydro-6-undecyl-	C16H30O2	7370-44-7
+Arabinaric acid, TMS	C20H48O7Si5	38165-95-6
+3-methyl-dibenzothiophene	C13H10S	16587-52-3
+Cyclobutyl bromide	C4H7Br	4399-47-7
+1,1,1-triphenylpentane	C23H24	13630-39-2
+6,16-Methanobenzocyclopentadecen-18-one,8,9,10,11,12,13,14,15-octahydro-	C20H24O	25401-41-6
+SiFCl3+	Cl3FSi+	80040-82-0
+Spiro[2,4]hept-4-ene	C7H10	52708-23-3
+Chloroxylenol	C8H9ClO	88-04-0
+Methanone, (pentafluorophenyl)phenyl-	C13H5F5O	1536-23-8
+4-Nitrodiphenylsulfone	C12H9NO4S	1146-39-0
+2-Methyldocosane	C23H48	1560-81-2
+Manganese, benzylpentacarbonyl-	C12H7MnO5	14049-86-6
+Bis(benzene)chromium chloride	C12H12ClCr	11078-19-6
+2(5H)-Furanone, 5,5-dimethyl-	C6H8O2	20019-64-1
+1,4-Diphenyl-1,3-butadiene	C16H14	886-65-7
+1,1'-Biphenyl, 2,4-dichloro-	C12H8Cl2	33284-50-3
+phenol, 4-ethyl-3,5-dimethyl-	C10H14O	62126-77-6
+Phenol, 3-chloro-4-methyl-	C7H7ClO	615-62-3
+Benzoic acid, 4-iodo-, methyl ester	C8H7IO2	619-44-3
+Pentyl ethylphosphonofluoridate	C7H16FO2P	162085-84-9
+3,4-Difluoroaniline	C6H5F2N	3863-11-4
+Phosphorus oxide anion	O2P-	20499-58-5
+4-n-Pentanoyl-4-n'-octadecanoyloxyazobenzene	C35H52N2O3	120103-11-9
+Butane, 1,1,2,2,3,3,4,4-octafluoro-1,4-diiodo-	C4F8I2	375-50-8
+Diacetoxyscirpenol	C19H26O7	2270-40-8
+Pentane, 2-methoxy-	C6H14O	6795-88-6
+4-n-Nonylbicyclohexyl	C21H40	95135-87-8
+Tricyclo[5.3.0.0(2.6)]deca-1(7)-ene	C10H14	82834-02-4
+2-Butene-1,4-dione, 1,4-diphenyl-	C16H12O2	4070-75-1
+Bicyclo[4.1.0]heptan-3-ol, 4,7,7-trimethyl-, (1&#945;,3&#946;,4&#945;,6&#945;)-	C10H18O	54750-09-3
+eudesmol	C15H26O	51317-08-9
+2-Propanamine, N-(1-methylethyl)-N-nitroso-	C6H14N2O	601-77-4
+Methoxycarbonylsulfenyl chloride	C2H3ClO2S	26555-40-8
+Chlorine trioxide	ClO3	13932-10-0
+4-t-Butylphenyl isothiocyanate	C11H13NS	19241-24-8
+O-propyl o-(2,4,5-trichlorophenyl) amidothiophosphate	C9H11Cl3NO2PS	2591-67-5
+Urea, 1-(2-chloroethyl)-3-(p-methoxyphenyl)-	C10H13ClN2O2	65536-40-5
+Betaprodine	C16H23NO2	468-59-7
+Decyl benzyl succinate	C21H32O4	119450-18-9
+Trans-1,4-cyclohexane-bis(methylamine)	C8H18N2	10029-07-9
+1,2-Propanedione, 1-(2-furanyl)-	C7H6O3	1438-92-2
+Galactose	C6H12O6	26566-61-0
+2,5-Dichlorophenyl isothiocyanate	C7H3Cl2NS	3386-42-3
+Acetic acid, dichloro-, ethyl ester	C4H6Cl2O2	535-15-9
+Beta-cyanostyrene	C9H7N	4360-47-8
+Cyclohexylidenecyclohexane	C12H20	4233-18-5
+3-Amino-4-chlorobenzenesulfonyl fluoride	C6H5ClFNO2S	368-72-9
+4-(t-Butylphenyl) salicyclate	C17H18O3	87-18-3
+2- Chloropropionic acid, hexadecyl ester	C19H37ClO2	86711-81-1
+1-Amino-5-chloroanthraquinone	C14H8ClNO2	117-11-3
+1-Pentene, 2,3,3-trimethyl-	C8H16	560-23-6
+3H,7H-Naphtho[1,8-de]-1,2-dithiepin	C12H10S2	75574-98-0
+Benzoic acid, 2-chloro, 1-methylbutyl ester	C12H15ClO2	97989-30-5
+1,3-Di-(5-carbomethoxyamyl) urea	C15H28N2O5	6621-60-9
+5-Methylamino-1H-tetrazole	C2H5N5	53010-03-0
+Titanium monosulfide	STi	12039-07-5
+Benzyl 2,2-diphenyl-3-dimethylamino propionate	C24H25NO2	116594-69-5
+3-Methylppyridinium 1,3-dihydro-1,3-dioxo-2H-inden-2-ylide	C15H11NO2	59804-82-9
+Pentafluorophenyl isothiocyanate	C7F5NS	35923-79-6
+Valeric acid, 3-hydroxy-2,2,4-trimethyl-	C8H16O3	35763-45-2
+Perfluidone	C14H12F3NO4S2	37924-13-3
+Tetra-tert-butyltetrahedrane	C20H36	66809-06-1
+Benz[a]indeno[1,2,3-cd]azulene	C20H12	4670-86-4
+ClClBr-	BrCl2-	96607-00-0
+Benzene, 1-chloro-2-(isothiocyanatomethyl)-	C8H6ClNS	18967-44-7
+Methanethioamide	CH3NS	115-08-2
+Boric acid, trihexyl ester	C18H39BO3	5337-36-0
+Cyclopropane, tetramethylmethylene-	C8H14	54376-39-5
+Thiophene, 2-bromo-	C4H3BrS	1003-09-4
+Benzoylecgonine	C16H19NO4	519-09-5
+2-Cyclopropen-1-thione,2,3-diphenyl-	C15H10S	2570-01-6
+Oxetane, 3,3-dimethyl-	C5H10O	6921-35-3
+Oxirane, tetradecyl-	C16H32O	7320-37-8
+3,5-Di-tert-butylcyclohexanone	C14H26O	92319-14-7
+Nitrosoethylene	C2H3NO	54680-52-3
+Furan, tetrahydro-2,2,5,5-tetramethyl-	C8H16O	15045-43-9
+3-Quinuclidinol	C7H13NO	1619-34-7
+1H-Imidazole, 1-(phenylmethyl)-	C10H10N2	4238-71-5
+N,n-diethyl-o-nitro aniline	C10H14N2O2	2216-17-3
+Benzene, (3-methylpentyl)-	C12H18	54410-69-4
+2-vinyl-1,3-butadiene	C6H8	500016-25-1
+1,3-dichloroadamantane	C10H14Cl2	16104-50-0
+Dibenzo[a,e]cyclooctene,5,6,11,12-tetradehydro-	C16H8	53397-65-2
+Octahydroazocine,1-tert-butyl-	C11H23N	108696-12-4
+Benzoic acid, p-tert-butyl-	C11H14O2	98-73-7
+Disulfide, methyl 1-propenyl	C4H8S2	5905-47-5
+2H-Pyran-2-one, 5,6-dihydro-4,6,6-trimethyl-	C8H12O2	6970-56-5
+Butanoic acid, trimethylsilyl ester	C7H16O2Si	16844-99-8
+1,4:5,8-Dimethanonaphthalene, 9-(1,1-dimethylethoxy)-1,4,4a,5,8,8a-hexahydro stereoisomer	C16H22O	151844-08-5
+2,8,9-Trioxa-5-aza-1-silabicyclo[3.3.3]undecan-3-one, 1-phenyl-	C12H15NO4Si	53883-47-9
+pyridine, 4-dodecyl-, hydrochloride	C17H30ClN	80887-49-6
+Acetic acid, 2-phenylcyclohexyl ester	C14H18O2	63476-56-2
+Dibenzo[b,e][1,4]dioxin, 1,2,3,4-tetrachloro-	C12H4Cl4O2	30746-58-8
+Sn(Et)(Cl)3	C2H5Cl3Sn	1066-57-5
+benzyl 2-methylpropionate	C11H14O2	103-28-6
+2-Pentene, 2-methyl-	C6H12	625-27-4
+Propanoic acid, 2-amino-2-methyl, butyl ester, TFA	C10H16F3NO3	34815-07-1
+1,4:5,8:9,10-Trimethanoanthracene, 1,4,4a,5,8,8a,9,9a,10,10a-decahydro-(1&#945;,4&#945;,4a&#945;,5&#945;,8&#945;,8a&#945;,9&#945;,9a&#946;,10&#945;,10a&#946;)-	C17H20	83830-72-2
+Tris(cyclopentadienyl)titanium	C15H15Ti	39333-58-9
+2-Butenedioic acid (E)-, bis(trimethylsilyl) ester	C10H20O4Si2	17962-03-7
+trans 4,5-Dimethyl-1,3-dioxane	C6H12O2	1121-20-6
+Benzo[g]isoquinoline dimer	C26H18N2	80811-66-1
+Silane,ethoxy-1H-inden-1-yldimethyl-	C13H18OSi	41273-57-8
+Tributyrin	C15H26O6	60-01-5
+1H-Cyclopent[b]anthracene	C17H12	259-06-3
+3,5,5-Trimethyloxazolidine-2,4-dione	C6H9NO3	127-48-0
+Mercury undecamer	Hg11	135371-67-4
+Pyridine, 4-bromo-2,3,5,6-tetrafluoro-	C5BrF4N	3511-90-8
+1-pentene, 3-chloro-, (&plusmn;)-	C5H9Cl	68703-27-5
+Octane, 2-chloro-	C8H17Cl	628-61-5
+PEMA	C11H14N2O2	7206-76-0
+methylnaphthalene	C11H10	1321-94-4
+1,6-Diaminohexane-N,N,N',N'-tetraacetic acid	C14H24N2O8	1633-00-7
+VCO	COV	59982-45-5
+Heptanoic acid, butyl ester	C11H22O2	5454-28-4
+Benzeneethanol, 4-nitro-	C8H9NO3	100-27-6
+2-Hydroxy-4-methylbenzoic acid	C8H8O3	50-85-1
+Norcodeine	C17H19NO3	467-15-2
+Diethyl 4-chlorophenyl phosphate	C10H14ClO4P	5076-63-1
+(E)-2-Tetrazene	H4N4	54410-57-0
+1-[(4-Methoxyphenyl)methyl]pyridinium	C13H14NO	46441-13-8
+Ethanone, 2-ethoxy-1-phenyl-	C10H12O2	14869-39-7
+Tungsten,tricarbonyl(&#951;<sup>5</sup>-2,4-cyclopentadien-1-yl)-	C8H5O3W	12079-77-5
+4-Quinolinol, 4-ethynyldecahydro-1,2-dimethyl-, (2&#945;,4&#945;,4a&#945;,8a&#946;)-	C13H21NO	16067-80-4
+2-Cyclopenten-1-one,3-hydroxy-	C5H6O2	5870-62-2
+O-Isopropyl S-2-(dimethylamino)ethyl ethylphosphonothiolate	C9H22NO2PS	162085-92-9
+17Beta-acetoxy-2,4-dibromoestra-1,3,5(10)-trien-3-ol	C20H24Br2O3	95946-09-1
+Carbostyril, n-methyl-6-(trifluoromethyl)-	C11H8F3NO	2261-94-1
+1-Amyl piperidine	C10H21N	10324-58-0
+5Alpha-androstane, 3,3,17,17-tetrafluoro-,	C19H28F4	3834-18-2
+(E)-2-Hepten-1-ol	C7H14O	33467-76-4
+Propionic acid, 3,3'-sulfonyldi-, didodecyl ester	C30H58O6S	27326-27-8
+1-Propene, 2-bromo-	C3H5Br	557-93-7
+Acetic acid, (1-methyl-2(1H)-pyridinylidene)-, methyl ester	C9H11NO2	39998-21-5
+Edrophonium chloride	C10H16NO.Cl	116-38-1
+4-(4-Chloro-2-methylphenoxy)butanoic acid	C11H13ClO3	94-81-5
+2-Acetoxycyclohexanone	C8H12O3	17472-04-7
+Benzo[b]benzo[3,4]cyclobuta[1,2-e][1,4]dioxin, 4b,10a-dihydro-4b-phenyl-	C20H14O2	53486-88-7
+Thieno[3,4-b]thiophene	C6H4S2	250-65-7
+2-Bromo-4-fluorotoluene	C7H6BrF	1422-53-3
+Oxime of 2-(n,n-dimethylthiocarbamoyl thio)-acetophenone	C11H14N2OS2	91180-88-0
+(3S)-(-)-Citronellal	C10H18O	5949-05-3
+3,5-di-tert-Butyl-4-hydroxybenzyl alcohol	C15H24O2	88-26-6
+O-methyl o-(2,4,6-trichlorophenyl) amidothiophosphate	C7H7Cl3NO2PS	116401-96-8
+Benzeneethanol, 3-methyl-	C9H12O	1875-89-4
+Guanidine, N-nitro-N'-propyl-	C4H10N4O2	35091-64-6
+Carbamic acid, thio-2-benzimidazole, ethyl ester	C10H11N3OS	13404-88-1
+1-Methylcyclooctene	C9H16	933-11-9
+1-Butene, 4-chloro-	C4H7Cl	927-73-1
+3-Ketoadipic acid, enol, tri-TMS	C15H32O5Si3	72378-92-8
+Cyclohexene, 1-(1,1-dimethylethyl)-	C10H18	3419-66-7
+Nicotinic acid, 6-amino-	C6H6N2O2	3167-49-5
+3,7-Diazabicyclo[3.3.1]nonane, 3,7-dimethyl-	C9H18N2	14789-33-4
+Tetraphosphorus hexaoxide	O6P4	10248-58-5
+2-Ethylpiperidine	C7H15N	1484-80-6
+Y8O radical	OY8	161037-01-0
+Trichloroacetic acid, undecyl ester	C13H23Cl3O2	74339-49-4
+2,2'-Thiobis(4-bromophenol)	C12H8Br2O2S	5336-22-1
+Hygrine	C8H15NO	496-49-1
+6,11-&#945;(H)-Santonin	C15H18O3	1618-78-6
+C9H13NO4	C9H13NO4	775-65-5
+Sodium anion	Na-	19181-13-6
+1,3-Propanediamine, N,N-dimethyl-	C5H14N2	109-55-7
+2-Furamide, n-benzimidazole-2-yl-	C12H9N3O2	21694-48-4
+Ethane, 1,2-bis(methylthio)-	C4H10S2	6628-18-8
+2-Isopropoxyphenyl N-methylcarbamate	C11H19NO3	114-26-1
+1,4:5,8:9,10-Trimethanoanthracene, 1,4,4a,5,8,8a,9,9a,10,10a-decahydro-(1&#945;,4&#945;,4a&#945;,5&#946;,8&#946;,8a&#945;,9&#946;,9a&#945;,10&#946;,10a&#945;)-	C17H20	87480-42-0
+2,7-Di-tert-butylthiepin	C14H22S	83670-21-7
+1-Butanol, 2-amino-3-methyl-,	C5H13NO	473-75-6
+Cyclohexanone, 2,4-bis(1,1-dimethylethyl)-, cis-	C14H26O	52743-56-3
+Nonadecanenitrile	C19H37N	28623-46-3
+Furan, tetrahydro-2,2-dimethyl-5-(1-methylpropyl)	C10H20O	33978-70-0
+3-Hexanol	C6H14O	623-37-0
+Carbonic chloride fluoride	CClFO	353-49-1
+pentane, 1,1-dichloro-3,3-dimethyl-	C7H14Cl2	6130-99-0
+Phosphinic acid, bis(chloromethyl),- ethyl ester	C4H9Cl2O2P	13274-84-5
+1-(p-chlorobenzoyl)pyrene	C23H13ClO	500004-33-1
+Octadecanoic acid, trimethylsilyl ester	C21H44O2Si	18748-91-9
+Cyclopentadecanol-	C15H30O	4727-17-7
+Vanadium(III) chloride	Cl3V	7718-98-1
+Trichloropentylsilane	C5H11Cl3Si	107-72-2
+1,4-Dibromo-2-chloro-1,1,2-trifluorobutane	C4H4Br2ClF3	378-13-2
+1-Butyn-3-yl radical	C4H5	3315-42-2
+[1]Benzothieno[3,2-b][1]benzothiophene	C14H8S2	248-70-4
+Phenylmethylammonium nitrate	C7H10N2O3	49580-44-1
+Cyclooctene, 1-phenyl-, (E)-	C14H18	137407-47-7
+Praseodymium trifluoride	F3Pr	13709-46-1
+3-hexene, 2,2,4-trimethyl-	C9H18	102877-01-0
+3-Buten-1-ol, 3-methyl-	C5H10O	763-32-6
+Butanedioic acid, 2,3-dihydroxy-, diethyl ester, [S-(R*,R*)]-	C8H14O6	13811-71-7
+4-Aminophthalimide	C8H6N2O2	3676-85-5
+1-Acetyl-2-naphthol	C11H10O2	574-19-6
+3-Hydroxyestra-1,3,5(10)-triene-16,17-dione	C18H20O3	1228-73-5
+Co39 radical	Co39	151574-32-2
+1h,1h,2h,2h-Perfluorodecyltrichlorosilane	C10H4Cl3F17Si	78560-44-8
+Fominoben	C21H24ClN3O3	18053-31-1
+2-Methyloct-4-ene	C9H18	64501-77-5
+Molybdenum hexacarbonyl	C6MoO6	13939-06-5
+9H-purine-6-thiol, 8-methyl-	C6H6N4S	1126-23-4
+Flavianic acid	C10H6N2O8S	483-84-1
+Benzene, 1-(1,1-dimethylethyl)-3-ethyl-5-methyl-	C13H20	6630-01-9
+Delta 1(2)-alpha- naphthalenemalonic acid, 3-hydroxy-4-oxo-, diethyl ester	C17H16O6	7475-39-0
+Trichloromonofluoromethane	CCl3F	75-69-4
+1-Methylhexahydropyrimidine	C5H12N2	3195-20-8
+Propanamide, N-[2-(2-cyanoethyl)-1-cyclohexen-1-yl]-2-methyl-N-(phenylmethyl)-	C20H26N2O	85019-71-2
+3-Aminoheptane	C7H17N	28292-42-4
+Tiglyglyclne, methyl ester	C8H13NO3	55649-53-1
+1-Butanone, 4-chloro-1-[4-(1-methylethyl)phenyl]-	C13H17ClO	70289-38-2
+HMgOMgH	H2Mg2O	75956-57-9
+9,9'-Bi-9H-fluorene	C26H18	1530-12-7
+3,4-Diethyl-3-hexene	C10H20	868-46-2
+p-Benzoquinone, methoxy	C7H6O3	2880-58-2
+2,6-Dinitro-N,N-dipropyl-4-(trifluoromethyl)benzenamine	C13H16F3N3O4	75635-23-3
+Chiolite	Al3F14Na5	1302-84-7
+Dimethyl phthalimidomethylphosphonate	C11H12NO5P	28447-26-9
+1H-1,2,4-Triazole,5-chloro-1-methyl-	C3H4ClN3	56616-99-0
+Benzoic acid,2-methyl, butyl ester	C12H16O2	65382-88-9
+Diphenyl carbonate	C13H10O3	102-09-0
+1,1'-Biphenyl, 3,4-diethyl-	C16H18	61141-66-0
+1,3-Diiodobenzene	C6H4I2	626-00-6
+Benzene, (1-butylpentyl)-	C15H24	20216-88-0
+Beryllium oxide	Be6O6	61279-76-3
+Cyclohexene,4-butyl-	C10H18	21524-26-5
+2,3-Octanedione 3-oxime	C8H15NO2	584-92-9
+Propanoic acid, 2-methyl-, hexyl ester	C10H20O2	2349-07-7
+Magnesium monohydride	HMg	14332-53-7
+Tricyclo[4.2.1.0<sup>2,5</sup>]non-7-ene	C9H12	6827-30-1
+BF4-	BF4-	14874-70-5
+3,4-Dichlorobenzyl alcohol	C7H6Cl2O	1805-32-9
+[1,2]Dithiolo[1,5-b][1,2]dithiole-7-s<sup>iv</sup>, 3-bromo-2,5-dimethyl-	C7H7BrS3	31405-07-9
+Tetramethylbutanedioic acid	C8H14O4	630-51-3
+Chloroacetic acid butyl ester	C6H11ClO2	590-02-3
+Europium, bis(&#951;<sup>5</sup>-pentamethylcyclopentadienyl-	C20H30Eu	101200-04-8
+Ethanol, 2-mercapto-	C2H6OS	60-24-2
+2-(Adamantylamino)ethanethiol, s-hydrogen sulfate	C12H21NO3S2	37018-31-8
+3-Methoxyestra-1,3,5(10),6,8,14-hexaen-17-one	C19H18O2	21513-03-1
+4-Nonanol, 2,6,8-trimethyl-	C12H26O	123-17-1
+Phosphoro diamidic acid, n,n'-bis (2,4-dimethyl phenyl), ethyl ester	C18H25N2O2P	116401-84-4
+3-Methylisoxazole	C4H5NO	30842-90-1
+Tricyclo[4.2.2.0<sup>2,5</sup>]dec-7-ene,9,10-bis(methylene)-(1&#945;,2&#945;,5&#945;,6&#945;)-	C12H14	57297-56-0
+4-Bromo-3-nitrobenzene sulfonic acid	C6H4BrNO5S	584-49-6
+Heptane, 2,2,4-trimethyl-	C10H22	14720-74-2
+Benzoic acid, 4-[(4-oxo-4a, 8a-methanonaphthalen-1(4H)-ylidene)hydrazino]-, ethyl ester	C20H18N2O3	89154-52-9
+3-Pentanol, 2-(2-benzimidazolyl)-2,4-dimethyl-	C14H20N2O	116465-68-0
+2-Butene-1,4-diamine, trans-N,N-diethyl	C8H18N2	23028-85-5
+Butanedioic acid, methyl-	C5H8O4	498-21-5
+Toluene-d8	C7D8	2037-26-5
+2,6-Methano-1,4-benzodioxocin-5(6h)-one, 2,3-dihydro-6-phenyl-,	C17H14O3	93321-57-4
+Iron, tetracarbonyl[(2,3-&#951;<sup>2</sup>)-2-propenal	C7H4FeO5	12287-43-3
+Silane, chloro(p-chlorophenyl)-dimethyl-	C8H10Cl2Si	825-92-3
+Butanamide, N-propyl-	C7H15NO	5129-73-7
+Cyclopropene, tetrachloro-	C3Cl4	6262-42-6
+Isobutyl p-hydroxybenzoate	C11H14O3	17696-61-6
+Cyclopentene, 1-butyl-	C9H16	2423-01-0
+Cycloundecene, 1-methoxy-, (Z)-	C12H22O	78289-13-1
+Butane, 1-(ethylthio)-	C6H14S	638-46-0
+Methanaminium,N-(cyclopropylmethylene)-N-hydroxy-hydroxide,inner salt	C5H9NO	65194-05-0
+Sandaracopimaradiene	C20H32	1686-56-2
+1,3-Butadiene, 1,1,2,3,4,4-hexafluoro-	C4F6	685-63-2
+3-CH3OC6H4C(CH3)=CH2	C10H12O	25108-57-0
+Furan, 2,3-dihydro-4-methoxy-	C5H8O2	61860-75-1
+1-chloro-2-fluoropropane	C3H6ClF	430-46-6
+1,4-Benzenediamine, N,N'-diethyl-	C10H16N2	3010-30-8
+Benzene, 1-iodo-4-(trifluoromethyl)-	C7H4F3I	455-13-0
+Benzonitrile, 4-nitro- anion	C7H4N2O2-	12402-47-0
+4,6-dithia-1,8-nonadiene	C7H12S2	18068-26-3
+Thorium(iv) fluoride	F4Th	13709-59-6
+Benzeneethanamine, &#946;-methyl-	C9H13N	582-22-9
+Phenindamine	C19H19N	82-88-2
+Diisobutylaluminum hydride	C8H19Al	1191-15-7
+Chloromethylene anion	CHCl-	75466-08-9
+camazepam	C19H18ClN3O3	36104-80-0
+[2-(M-nitrophenoxy)ethyl]trimethylammonium bromide	C11H17BrN2O3	369-38-0
+&#945;-Methylene-&#947;-butyrolactone	C5H6O2	547-65-9
+propane, 1-[2-(ethenyloxy)ethoxy]-	C7H14O2	18854-26-7
+Diethylene glycol-glycerol-adipate polymer	C13H22O8	26760-54-3
+p-menth-4-en-9-ol	C10H18O	15714-10-0
+Hexaphenyldisiloxane	C36H30OSi2	1829-40-9
+Borane, dichlorophenyl-	C6H5BCl2	873-51-8
+1h-Imidazole, 1-(trimethylsilyl)-	C6H12N2Si	18156-74-6
+Rubidium tetraphenyl boron	C24H20BRb	5971-93-7
+Pyridine,trans-3-[2-(4-nitrophenyl)ethenyl]-	C13H10N2O2	5847-74-5
+1,5-Hexanediol	C6H14O2	928-40-5
+Butanoic acid, 4-([4h, 5h]thiazol-2-ylthio)-, ethyl ester	C9H15NO2S2	22623-65-0
+Triphenylacrylonitrile	C21H15N	6304-33-2
+Argon dimer	Ar2	12595-59-4
+Alpha-fluorocinnamic acid	C9H7FO2	350-90-3
+1,2-Propadiene, 1,1-difluoro-	C3H2F2	430-64-8
+ArXeF	ArFXe	66257-51-0
+Alanylglycylglycine(DL)	C7H13N3O4	927-21-9
+Disiloxane	H6OSi2	13597-73-4
+2-Ethoxy-4-methylphenol	C9H12O2	2563-07-7
+Cyclohexane, 1-(cyclohexylmethyl)-2-ethyl-, cis-	C15H28	54934-93-9
+Acetamide,N-2-pyridinyl-,N'-oxide	C7H8N2O2	6994-14-5
+Cyclohexane, 1,1-dimethoxy-3-methylene-	C9H16O2	104598-80-3
+C12H11NO3	C12H11NO3	178412-42-5
+Bis(p-chlorobenzylidene)ethylene diamine	C16H14Cl2N2	60434-95-9
+Perhydrophenanthrene, (4a.alpha., 4b.beta., 8a.beta., 10a.alpha.)-	C14H24	27389-74-8
+&#945;-Bromo-3-fluorotoluene	C7H6BrF	456-41-7
+1-Cyclopropyl-4-isopropylbenzene	C12H16	27546-49-2
+(&#951;<sup>6</sup>-Chlorobenzene) chromium tricarbonyl	C9H5ClCrO3	12082-03-0
+1-Heptene, 3-methyl-	C8H16	4810-09-7
+Malononitrile, phenyl-	C9H6N2	3041-40-5
+D-.alpha.-Methylbenzyl isothiocyanate	C9H9NS	24277-44-9
+Methyl 3-hydroxyoctanoate	C9H18O3	7367-87-5
+3-Ethylthiophene	C6H8S	1795-01-3
+Stigmasta-4,22-dien-3-one	C29H46O	20817-72-5
+4-Chlorobut-2-ynyl 3-chlorophenylcarbamate	C11H9Cl2NO2	101-27-9
+Chromium, (carbonothioyl)pentacarbonyl-	C6CrO5S	50358-90-2
+N-Benzoylglycine ethyl ester	C11H13NO3	1499-53-2
+1,3,2-Dioxathiolane, 2-oxide	C2H4O3S	3741-38-6
+2-Pyridinecarboxylic acid, methyl ester	C7H7NO2	2459-07-6
+Octadecane, 1-isocyanato-	C19H37NO	112-96-9
+2,4-Decadienoic acid, ethyl ester	C12H20O2	37549-74-9
+2,3,6-Trifluorobenzaldehyde	C7H3F3O	104451-70-9
+2-Propanone, ethyl(1-methylethyl)hydrazone	C8H18N2	75268-05-2
+trans-.beta.-Chloroacrylic acid	C3H3ClO2	2345-61-1
+4-Ethoxybenzoyl chloride	C9H9ClO2	16331-46-7
+2,4-Heptanediol	C7H16O2	20748-86-1
+Alanine, N-chloro-2-methyl-, octyl ester	C12H24ClNO2	59660-97-8
+1,3-Cyclobutanediol, 2,2,4,4-tetramethyl-, monoacetate	C10H18O3	116373-49-0
+5-Acenaphthenamine, 4-nitro-	C12H10N2O2	4657-95-8
+Iron cation	Fe+	14067-02-8
+Tris(&#951;<sup>5</sup>-cyclopentadienyl)praseodymium	C15H15Pr	11077-59-1
+5-Diazo-1,3-cyclopentadiene	C5H4N2	1192-27-4
+3,5-Dimethyldodecane	C14H30	107770-99-0
+Cyclooctaselenium	Se8	12597-33-0
+3-Hydroxymandelic acid, tri-TMS	C17H32O4Si3	68595-69-7
+Galactose, alpha,d-,pentaacetate	C16H22O11	4163-59-1
+2-Methyl-5-propylpyrazine	C8H12N2	29461-03-8
+CH3(CC)2Cl+	C5H3Cl+	73061-58-2
+Benzene, 1-fluoro-4-(methylsulfonyl)-	C7H7FO2S	455-15-2
+HFeOH	H2FeO	81533-93-9
+acridine monohydrate	C13H11NO	500013-99-0
+Nonadecane	C19H40	629-92-5
+2H-Pyran-2-one, 6-pentyl-	C10H14O2	27593-23-3
+1-Phosphapropyne	C2H3P	34627-31-1
+NH4+	H4N+	14798-03-9
+Thiodiglycolic anhydride	C4H4O3S	3261-87-8
+Manganic acetylacetonate	C15H21MnO6	14284-89-0
+B-Borazinyl radical	B3H5N3	61110-11-0
+3-Methoxy-2-nitrobenzoic acid	C8H7NO5	4920-80-3
+Diindium selenide	In2Se	12030-25-0
+Isoquinoline, 1-benzyl-3-ethyl-6,7-dimethoxy	C20H21NO2	10539-19-2
+Benzamine,2,6-dimethyl-N-[(3-methylphenyl)methylene]-	C16H17N	57387-52-7
+1H-Benzotriazole, 5-nitro-	C6H4N4O2	2338-12-7
+1-(2-Thienyl)-1-propanone	C7H8OS	13679-75-9
+Cyclohexane,1-propenylidene-	C9H14	20023-43-2
+benzene, (1,1-dimethyl-4-pentenyl)-	C13H18	40463-12-5
+Dimethylthiambutene	C14H17NS2	524-84-5
+1,1'-Binaphthalene	C20H14	604-53-5
+Cyclohexene, 1-methyl-4-(1-methylethylidene)-	C10H16	586-62-9
+Ethanone, 1-(2-methylphenyl)-	C9H10O	577-16-2
+Hafnium tetrachloride	Cl4Hf	37230-84-5
+N,N-Dipropylformamide	C7H15NO	6282-00-4
+2-Decene, (Z)-	C10H20	20348-51-0
+GaH2Cl	H2ClGa	43311-11-1
+1,3-Dinitro-1,3-diazacycloheptane	C5H10N4O4	5754-90-5
+C8HF18NO4S2	C8HF18NO4S2	39847-39-7
+scopoletin	C10H8O4	92-61-5
+1,2,4,3,5-Trithiadiborolane,3,5-dimethyl-	C2H6B2S3	25592-09-0
+1,2-Difluorostilbene	C14H10F2	643-76-5
+Dithallium sulfate	O4STl2	7446-18-6
+Diethyl 2,2-diethoxyethylphosphonate	C10H23O5P	7598-61-0
+2,2,2'-Trichloropropionanilide	C9H8Cl3NO	116557-99-4
+(2-FC6H4)CH2	C7H6F	2599-82-8
+2,4-Dimethoxyiodobenzene	C8H9IO2	20469-63-0
+Diphenylphosphoryl azide	C12H10N3O3P	26386-88-9
+Linalyl cinnamate	C19H24O2	78-37-5
+2,4-Nonanediol, 5-ethyl-3-methyl-	C12H26O2	6628-31-5
+o,o',o''-Triethyl selenophosphate	C6H15O3PSe	2651-89-0
+As4+	As4+	73145-35-4
+Phosphethene	CH3P	61183-53-7
+3-Thenyl bromide	C5H5BrS	34846-44-1
+(Z)-7,7-Difluoro-1,5-heptadiene	C7H10F2	85685-21-8
+3-Cyclohexene-1-carboxaldehyde	C7H10O	100-50-5
+Plumbane, tetraphenyl-	C24H20Pb	595-89-1
+Disiloxane, 1,3-bis(bromomethyl)-1,1,3,3-tetramethyl-	C6H16Br2OSi2	2351-13-5
+Boron, (N,N-dimethylmethanamine)trihydro-	C3H12BN	75-22-9
+o-(2-Chloro-4-nitrophenyl) o,o-dimethyl phosphorothioate	C8H9ClNO5PS	2463-84-5
+Moprolol	C13H21NO3	5741-22-0
+Thiophene, 2-(1-methylethyl)-	C7H10S	4095-22-1
+2,4,6-Trifluorobenzaldehyde	C7H3F3O	58551-83-0
+nonyloxybenzene	C15H24O	36588-31-5
+(Z),(Z)-2,4-Hexadiene	C6H10	6108-61-8
+1-Nitroanthraquinone	C14H7NO4	82-34-8
+Acetamide, N-(2,4-dimethylphenyl)-	C10H13NO	2050-43-3
+3,6-Diaminophthalimide	C8H7N3O2	1660-15-7
+1,2,3,4-Tetramethylfulvene	C10H14	76089-59-3
+Benzeneacetic acid, trimethylsilyl ester	C11H16O2Si	2078-18-4
+V15O radical	OV15	121674-47-3
+(E) 1-Methyl-1-cyclooctene	C9H16	38229-26-4
+H3SiOH	H4OSi	14475-38-8
+1,1-Dichloro-1-fluoroethane	C2H3Cl2F	1717-00-6
+2-(Hexamethyleneimino)ethanol	C8H17NO	20603-00-3
+3-Hepten-2-one, 5-methyl-	C8H14O	5090-16-4
+Acetic acid, methylthio, methyl ester	C4H8O2S	16630-66-3
+cis 2-Ethoxycinnamic acid	C11H12O3	38624-46-3
+1,2-dihydro-4-(2-phenylethyl)naphthalene	C18H18	71912-48-6
+2-Docosanone	C22H44O	77327-11-8
+Alpha-(p-chlorophenyl)cinnamonitrile	C15H10ClN	3695-93-0
+Benzene, decyl-	C16H26	104-72-3
+Bornyl propionate	C13H22O2	78548-53-5
+2,3-Diazabicyclo[2.2.2]octane,2,3-dimethyl-,trans-	C8H16N2	53779-85-4
+Phenylsuccinonitrile	C10H8N2	13706-68-8
+Dimethyl amidogen	C2H6N	15337-44-7
+Benzylamine, N,N-dioctyl-,	C23H41N	22643-20-5
+Chalcone oxime	C15H13NO	6502-38-1
+Heptyl methylphosphonofluoridate	C8H18FO2P	162085-82-7
+1,4,5,8,9,10-Hexahydroanthracene	C14H16	5910-28-1
+2-N-heptyl-3,5,6-trimethyl pyrazine	C14H24N2	116660-36-7
+4-Chlorophenyl chloroformate	C7H4Cl2O2	7693-45-0
+9,9-Dimethyl-9-silafluorene	C14H14Si	13688-68-1
+Benzil phenylosazone	C26H22N4	572-18-9
+Ethyl p-aminocinnamate	C11H13NO2	5048-82-8
+2,2',2&quot;,2'&quot;,4,4',4&quot;,4'&quot;,6,6',6&quot;,6'&quot;-Dodecanitroquatraphenyl	C24H6N12O24	23242-92-4
+Silane, (methoxymethyl)trimethoxy-	C5H14O4Si	22859-36-5
+N-(1-Cyclopenten-1-yl)-morpholine	C9H15NO	936-52-7
+Ethyl-m-phenylenediisocyanate	C10H8N2O2	64711-83-7
+1,4-Cyclohexanedicarboxylic acid, dimethyl ester	C10H16O4	94-60-0
+Benzaldehyde, 3-ethoxy-2-hydroxy-	C9H10O3	492-88-6
+1,1'-Biphenyl, 2,2',3,5,5'-pentachloro-	C12H5Cl5	52663-61-3
+Cyclopentane, methyl-	C6H12	96-37-7
+4-Cyclohexene-1,2-dicarboxylic acid, 4-methyl, dimethyl ester	C11H16O4	86905-77-3
+4-Hexamethyleneiminobutyronitrile	C10H18N2	3194-43-2
+Chromium	Cr	7440-47-3
+1,2-Ethanediol	C2H6O2	107-21-1
+Butyl sorbate	C10H16O2	7367-78-4
+3-(([1-(2-Chloroethyl)-2-oxohydrazino]carbonyl)amino)-2,6-piperidinedione	C8H11ClN4O4	13909-02-9
+Propiophenone, 4-bromo-2-hydroxy-,	C9H9BrO2	17764-92-0
+Pyridine, 2,4-dimethyl-	C7H9N	108-47-4
+2,3-dithiaheptane	C5H12S2	60779-24-0
+1-(4-Methoxyanilino)ethylidenechromium pentacarbonyl	C14H11CrNO6	22852-46-6
+Hexyl dichloroacetate	C8H14Cl2O2	37079-04-2
+Silane, trihexyl-	C18H40Si	2929-52-4
+1-Piperidinyloxy, 4-hydroxy-2,2,6,6-tetramethyl-	C9H18NO2	2226-96-2
+Arsine, allyldimethyl-	C5H11As	691-35-0
+Propene-2-phosphorylchloride	C3H5Cl2OP	3944-27-2
+Bromoimidogen	BrN	13967-29-8
+1,6-Methano-1H-indene, 2,3,3a,4,5,8-hexachloro-3a,6,7,7a-tetrahydro-, (1-.alpha.,3a-.beta.,6-.alpha.,7a-.beta.,8R*)-	C10H6Cl6	56641-38-4
+[2.2.2.2](1,2,3,4)Cyclophane	C20H20	69631-55-6
+Butanoic acid, 2-hydroxy-2-methyl-, ethyl ester	C7H14O3	77-70-3
+cis-4-Decene	C10H20	19398-88-0
+1,8,11,14-Heptadecatetraene, (Z,Z,Z)-	C17H28	10482-53-8
+Phenanthro[3,4-c]phenanthrene	C26H16	187-83-7
+Co24 radical	Co24	151574-17-3
+Ethanone, 1-(4-pyridinyl)-	C7H7NO	1122-54-9
+Bis-(n-pentanesulfonyl methyl)-2-thiazolyl disulfide	C18H28N2O4S6	93999-94-1
+Benzene, 1-bromo-2,4-dimethyl-	C8H9Br	583-70-0
+Ethanol, 2-(ethylamino)-	C4H11NO	110-73-6
+Pyrimidine, 4-methoxy-2-methylthio-	C6H8N2OS	76541-59-8
+Methylphthalyl ethyl glycolate	C13H14O6	85-71-2
+Magnesium cation	Mg+	14581-92-1
+		35008-50-5
+Methylphaeophorbide-b	C36H36N4O6	5522-71-4
+Ethyl isocaproate	C8H16O2	25415-67-2
+3-Hexanol, 3,5-dimethyl-	C8H18O	4209-91-0
+1-Butene, 1-[(1-methylethyl)thio]-, (E)-	C7H14S	121222-72-8
+Benzoic acid, 2,5-dimethyl-, 2-(2-hydroxy-2-methylpropyl)-2-methylhydrazide	C14H22N2O2	21629-71-0
+Bicyclo[2.2.1]heptane, 2-isothiocyanato-, exo-	C8H11NS	18530-33-1
+1-Iodo-1,1-dinitroethane	C2H3IN2O4	65064-44-0
+2H-Benz[f]isoindole,2-methyl-	C13H11N	59788-14-6
+2-Acetyl-1-phenylhydrazine	C8H10N2O	114-83-0
+2-Methylchrysene	C19H14	3351-32-4
+N-Methylimidazolidine, 2-thione	C4H8N2S	13431-10-2
+Silane, n-propyl-trimethyl-,	C6H16Si	3510-70-1
+Undecafluoropiperidine	C5F11N	836-77-1
+Trilinolenin	C57H92O6	14465-68-0
+3-Ethylsulphinyl-1-propene	C5H10OS	34757-40-9
+3,4-Methylenedioxyamphetamine, AC	C12H15NO3	36209-71-9
+Be2F4	Be2F4	54686-48-5
+1-Azabicyclo[2.2.1]heptane	C6H11N	279-27-6
+4-Amino-4'-hydroxystilbene	C14H13NO	836-44-2
+O-nitro carbanilic acid, n-nonyl ester	C16H24N2O4	94373-84-9
+2-heptadecanone	C17H34O	2922-51-2
+Benzene, ethoxy-	C8H10O	103-73-1
+Butoxyethyl nicotinate	C12H17NO3	13912-80-6
+H(CC)2CN+	C5HN+	74941-84-7
+1,2,3-propanetriol dioctadecanoate	C39H76O5	1323-83-7
+2-Aminoethyl thiolacetate hydrochloride	C4H9NOS.ClH	17612-91-8
+Phenol,2,6-diiodo-,acetate	C8H6I2O2	28165-73-3
+Bis-(o-aminophenyl)-2,2'-dibezimidazole oxide	C26H20N6O	25829-64-5
+2-Butenoic acid, dodecyl ester	C16H30O2	16005-15-5
+Methacrylic acid, 2,2,3,3,4,4,4-heptafluorobutyl ester	C8H7F7O2	13695-31-3
+Disperse yellow 3,ci 11855	C15H15N3O2	2832-40-8
+N,N-Dimethylvaleramide	C7H15NO	6225-06-5
+1,2,4,5,3,6-Tetrazadiborine,hexahydro-1,2,3,4,5,6-hexamethyl-	C6H18B2N4	7318-93-6
+Tungsten tetrafluoride oxide	F4OW	13520-79-1
+2-Isobutyl-3,5,6-trimethylpyrazine	C11H18N2	46187-37-5
+Valeramide, 5-hydroxy-	C5H11NO2	29686-12-2
+1,2,5-Metheno-1H-cyclobuta[de]naphthalene,1a,2,4a,5,7a,7b-hexahydro-	C12H12	68109-02-4
+2-Methylthio-4,6-bis(ethylamino)-1,3,5-triazine	C8H15N5S	1014-70-6
+2-Propanamine	C3H9N	75-31-0
+Benzimidazole, 5-chloro-4-nitro-2-(trifluoromethyl)-	C8H3ClF3N3O2	6609-39-8
+Octadecyl butanoate	C22H44O2	13373-83-6
+3-Nonen-1-ol, acetate	C11H20O2	36809-53-7
+Cyclopentylamine, 1-(bromomethyl)-, hydrobromide	C6H13Br2N	13988-38-0
+3,4-Difluoropropiophenone	C9H8F2O	23384-72-7
+1,2-dichloro-3,3-difluoropentane	C5H8Cl2F2	500029-80-1
+1-Hexadecanethiol	C16H34S	2917-26-2
+1,1'-Biphenyl, 2,2',3,4',5,5',6-heptachloro-	C12H3Cl7	52663-68-0
+5-Nitrobenzisoxazole	C7H4N2O3	39835-28-4
+Benzofuran deriv (herz)	C14H16O4	35817-13-1
+Butyl nitrate	C4H9NO3	928-45-0
+Bis(&#956;difluorophosphine)diiron hexacarbonyl	C10H12Fe2O6P2	14871-43-3
+Metacetamol	C8H9NO2	621-42-1
+cyclohexane, 1,1,2,4,4,5-hexachloro-	C6H6Cl6	60184-62-5
+Pentanedinitrile, 2-methyl-	C6H8N2	4553-62-2
+Methanamine, N-methyl-1-(trimethylsilyl)-N-[(trimethylsilyl)methyl]-	C9H25NSi2	69320-67-8
+(Z) CH3CH=C(CH3)COOH	C5H8O2	565-63-9
+cymene	C10H14	25155-15-1
+Tetracosanoic acid	C24H48O2	557-59-5
+Benzene, 4-iodo-1,2-dimethyl-	C8H9I	31599-61-8
+Benzene, 1-(2-methyoxy-1-propenyl)-3-methyl-, (Z)-	C11H14O	101948-73-6
+Tetrafluorosuccinic anhydride	C4F4O3	699-30-9
+N-(2-Methylphenyl)azetidine	C10H13N	19198-94-8
+Phosphorothioic triamide, hexamethyl-	C6H18N3PS	3732-82-9
+Etamiphyllin	C13H21N5O2	314-35-2
+Ascorbate, tetra-TMS	C18H40O6Si4	55517-56-1
+Pentachloro benzenethiol	C6HCl5S	133-49-3
+(CH3)2N-CH=N-(1,1-dimethylpropyl)	C8H18N2	133835-17-3
+4-Pyridinemethanol	C6H7NO	586-95-8
+Perrhenic acid, cesium salt	CsO4Re	13768-49-5
+Cantharidin	C10H12O4	56-25-7
+2a,4a,6a-Triaza-6b-phosphacyclopenta[cd]pentalene, hexahydro-, 6b-sulfide	C6H12N3PS	71771-38-5
+6-Chloro-2-pyridinol	C5H4ClNO	73018-09-4
+2,4-Dichlorobenzoic acid, 4-tolyl ester	C14H10Cl2O2	92153-11-2
+Methoxymethyldiphenylphosphine oxide	C14H15O2P	4455-77-0
+Cu39	Cu39	158706-92-4
+Methyl 2-methyl-3-methoxy-3-butenoate	C7H12O3	82481-19-4
+Isomenthol	C10H20O	490-99-3
+2,7-Di-tert-butylthiepin,4-methyl-2,3-dihydro-	C15H26S	98705-35-2
+Aniline hydrobromide	C6H8BrN	542-11-0
+Benzene, 1,2,4-tris-trimethylsilyl-,	C15H30Si3	17864-15-2
+Phthalimide	C8H5NO2	85-41-6
+5,6,6a,7,8,12b,12c-Octahydrodibenzo[a,i]biphenylene	C20H20	42182-84-3
+1-Chloro-3-[1-(4-chlorophenyl)ethyl]benzene	C14H12Cl2	77008-64-1
+Carbonic acid dicyclohexyl ester	C13H22O3	4427-97-8
+Cyclobutane, propyl-	C7H14	4806-62-6
+2-Iodobenzylidenemalonic acid	C10H7IO4	121263-09-0
+Pyridine,4-methyl-,compound with borane(1:1)	C6H10BN	3999-39-1
+4-Methylene-1,3-dioxane	C5H8O2	16433-81-1
+Phosphine, diethoxy-trimethylsilyl-p-oxide	C5H15O3PSi	36198-87-5
+Tiglic acid, mono-TMS	C8H16O2Si	55517-33-4
+4,4'-Isopropylidene diphenol, diglycidyl ether-	C21H24O4	1675-54-3
+Benzoic acid, 2,5-dimethyl-	C9H10O2	610-72-0
+C6O	C6O	112022-62-5
+Benzonitrile, 2-hydroxy-	C7H5NO	611-20-1
+2,5-Dimethoxyphenyl isothiocyanate	C9H9NO2S	40532-06-7
+Diacetone sorbose	C12H20O6	32717-65-0
+2-Phenylethenol	C8H8O	4365-04-2
+Estr-4-ene-16beta-propionic acid, 17beta-hydroxy-3-oxo-, delta-lactone	C21H28O3	94962-51-3
+Dimethyl-(allyl)-silyloxybenzene	C11H16OSi	66998-68-3
+p-mentha-1(7),8(10)-dien-9-ol	C10H16O	29548-13-8
+Diallyl trisulfide	C6H10S3	2050-87-5
+Cyclohexane, 1,2,3-trimethyl-, (1.alpha.,2.alpha.,3.alpha.)-	C9H18	1839-88-9
+1-Chloro-3-ethoxybenzene	C8H9ClO	2655-83-6
+Diphenethylamine	C16H19N	6308-98-1
+Glucose phenylhydrazone	C12H18N2O5	3713-25-5
+decane, 4-propyl-	C13H28	17312-61-7
+Ethane, 1,1,2,2-tetrachloro-	C2H2Cl4	79-34-5
+1H-2-Benzopyran-1-one, 3,4-dihydro-8-hydroxy-3-methyl	C10H10O3	17397-85-2
+Benzofuran, 2,3-dihydro-2,2,6-trimethyl-,	C11H14O	19956-97-9
+4-CH3O-C6H4-C(Si(CH3)3)=CH2	C12H18OSi	107099-29-6
+cyclohexanethiol, 4-methyl-	C7H14S	60260-87-9
+2(1H)-Quinoxalinone, 3-methyl-	C9H8N2O	14003-34-0
+8-Quinolinol, 5,7-dichloro-	C9H5Cl2NO	773-76-2
+Chromium, tetracarbonylbis[(1,2,3,4,5-&#951;<sup>5</sup>)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl]di-, (cr-cr)	C24H30Cr2O4	37299-12-0
+3-Bromobenzothiophene sulfone	C8H5BrO2S	16957-97-4
+Hydrazine, 1-methyl-2-phenylethyl	C9H14N2	55-52-7
+Propane, 3-chloro-1,1,1-trifluoro-	C3H4ClF3	460-35-5
+2-cyclopropyl-methylamino-5-chlor-benzophenone	C17H16ClNO	2897-00-9
+1,2-Benzenediol, 3-methoxy-	C7H8O3	934-00-9
+2-(Trifluoromethyl)benzoyl chloride	C8H4ClF3O	312-94-7
+Carvone, 2,4-dinitrophenyl hydrazone	C16H18N4O4	3102-61-2
+HClC=C=C:	C3HCl	153698-77-2
+1,1,1,2,2,3,3,5,5,5-Decamethyl-1,2,3,5-tetrasilapentane	C11H32Si4	124225-86-1
+3-Hexamethyleneiminopropionitrile	C9H16N2	937-51-9
+1-Piperazinecarboxylic acid, ethyl ester	C7H14N2O2	120-43-4
+Stannane	H4Sn	2406-52-2
+Octane, 4-chloro-	C8H17Cl	999-07-5
+Butanoic acid, 3-oxo-, propyl ester	C7H12O3	1779-60-8
+Naphthalene, 1-bromo-4-methyl-	C11H9Br	6627-78-7
+2,6-Dimethyl-1,6-heptadien-4-ol	C9H16O	29765-76-2
+Trichlorogermane, trifluoromethyl-	CCl3F3Ge	1495-36-9
+o-Methoxybenzoic acid, octadecyl ester	C26H44O3	96173-98-7
+2,4,6-(CH3)3-C6H2-COOCH3	C11H14O2	2282-84-0
+butanamide, N,N'-1,8-octanediylbis-	C16H32N2O2	70199-31-4
+Z-7-tetradecenyl acetate	C16H30O2	16974-10-0
+heptane, 1-(ethenyloxy)-	C9H18O	764-95-4
+SiH3AlH	H4AlSi	116233-51-3
+3,5-Diethylbiphenyl	C16H18	111154-99-5
+1-Phenyl-1,2,3-tribromopropane	C9H9Br3	56762-23-3
+Cyclohexanol, 3,3-dimethyl-	C8H16O	767-12-4
+2-Chloro-N,N-dimethyl-4-nitroaniline	C8H9ClN2O2	6213-19-0
+Fluorine cation	F+	14701-13-4
+N,N'-Bis-(m-methoxyphenyl)terphtalamide	C22H20N2O4	6957-81-9
+Benzeneacetic acid, 2-hydroxy-	C8H8O3	614-75-5
+3Beta,17beta-diacetoxy-5alpha-androstan-16-ylidenacetic acid	C25H36O6	18039-58-2
+butanoyl chloride, 2-methyl-	C5H9ClO	5856-79-1
+Phenol, 2-(1,1-dimethylethyl)-4,5-dimethyl-	C12H18O	1445-23-4
+1,2,4-Triazolo[5,1-c][1,2,4]triazine, 4,7-dihydro-6-nitro-7-oxo-2,3-dimethyl-	C6H6N6O3	116061-70-2
+2-chlorobenzoic acid, nonyl ester	C16H23ClO2	81542-10-1
+Benzenamine, 4-bromo-2,6-dimethyl-	C8H10BrN	24596-19-8
+Nonane, 4,5-dimethyl-	C11H24	17302-23-7
+2-Furancarboxylic acid	C5H4O3	88-14-2
+Phenothiazine, 2-chloro-10-[3-(methylamino)propyl]-, hydrochloride	C16H18Cl2N2S	3953-65-9
+glyceryl monostearate	C28H20O2	31566-31-1
+4-Methyl-7-ethoxycoumarin	C12H12O3	87-05-8
+2-Butanamine, 3-methyl-	C5H13N	598-74-3
+Phenol, 2,6-diallyl-,	C12H14O	26338-58-9
+N2S4+	N2S4+	88643-34-9
+Phosphoramidous acid, dimethyl-, diethyl ester	C6H16NO2P	2632-87-3
+Octadecanoic acid, 16-methyl-, methyl ester	C20H40O2	2490-16-6
+Calcium sulfate, anhydrous	Ca.H2O4S	7778-18-9
+Methane, isocyano-	C2H3N	593-75-9
+&#946;-Maaliene	C15H24	489-29-2
+6-Methyl - 2,4-dioxo-5- heptenoic acid, ethyl ester	C10H14O4	92736-02-2
+4-cyano-2-fluorophenyl-trans-4-pentylcyclohexane-1- carboxylate	C19H24FNO2	94353-13-6
+1,4-Diaminoanthraquinone	C14H10N2O2	128-95-0
+2,3,5,6-Tetrachloro phenol	C6H2Cl4O	935-95-5
+Bis(1,3-diphenyl-1,3-propanedionato)copper	C30H22CuO4	58179-06-9
+1,2,3,4-Tetrahydronaphthalene-cis-2,3-diol	C10H12O2	35583-15-4
+Cyclohexyl(2-ethylcyclohexyl)methane	C15H28	66374-71-8
+Manganese,dicarbonyl(&#951;<sup>5</sup>-2,4-cyclopentadien-1-yl)(phosphorus trifluoride)-	C7H5F3MnO2P	12275-47-7
+ClBrBr-	Br2Cl-	16871-87-7
+Benzene, (triethoxymethyl)-	C13H20O3	1663-61-2
+Tetrachloroethylene	C2Cl4	127-18-4
+cis-Bicyclo[4.1.0]hept-3-ene	C7H10	16554-83-9
+bicyclo[3.1.1]heptane, 2,6,6-trimethyl-, didehydro deriv.	C10H16	1330-16-1
+Allyl trifluoroacetate	C5H5F3O2	383-67-5
+Benzoic acid, 2,4-dimethoxy-	C9H10O4	91-52-1
+Chromium, pentacarbonyl(triphenylphosphine)-	C23H15CrO5P	14917-12-5
+Methimazole	C4H6N2S	60-56-0
+Cu18	Cu18	155575-11-4
+Tridecane, 4-methyl-	C14H30	26730-12-1
+Xenon monofluoride	FXe	16757-14-5
+Purine, 6-pentylthio-	C10H14N4S	5443-89-0
+Bicyclo[2.1.0]pentane	C5H8	185-94-4
+Holmium	Ho	7440-60-0
+Acetamide, n-1-naphthylaceto-	C14H13NO2	86-83-9
+Azobenzene,2,2'3,3'5,5',6,6'-octafluoro-4,4'-dimethoxy-	C14H6F8N2O2	2787-85-1
+Phenol, 2-(1,1-dimethylethyl)-	C10H14O	88-18-6
+Alpha-chloroethyltrimethylsilane	C5H13ClSi	7787-87-3
+Vinylbital M (OH, -H2O)	C11H14N2O3	131147-55-2
+2-Cyclohexenone,3-cyano,5,5-dimethyl-	C9H11NO	65115-71-1
+Dl-malic acid, di-n-butyl ester	C12H22O5	6280-99-5
+cis-Beta,gamma-penteneoic acid	C5H8O2	33698-87-2
+Iron, dicarbonylbis(2,6-dimethyl-1-piperidinecarbodithioato-s,s')-(oc-6-21)-	C18H28FeN2O2S4	63796-67-8
+Benzimidazole, 2,5-bis(trifluoromethyl)-	C9H4F6N2	399-69-9
+Cinchonine	C19H22N2O	118-10-5
+Ethyl 4-nitrobenzoate	C9H9NO4	99-77-4
+Naphthalene, 1-phenyl-	C16H12	605-02-7
+1,3,5,7-Tetramethyl-2,6-diethyl-4,8-di-n-propyl porphin	C34H42N4	5131-00-0
+Pentanoic acid, 4-methyl-3-oxo-, ethyl ester	C8H14O3	7152-15-0
+Naphthalene, 1,2,3,4-tetrahydro-5-isobutyl-	C14H20	5458-54-8
+Cyclobutane carboxamide, 3,3-dimethyl	C7H13NO	89894-97-3
+Pentaborane(9),2-iodo-	H8B5I	20199-87-5
+4-N,N',N''-Tetramethyl-2,6,7-triaza-1-phosphabicyclo[2.2.2]octane-1-oxide	C8H18N3OP	15199-21-0
+Benzene, 2-fluoro-1,3,5-trimethyl-	C9H11F	392-69-8
+Barbituric acid, 5-ethyl-5-isoamyl-	C11H18N2O3	57-43-2
+Acetic acid, chloro-, isobutyl ester	C6H11ClO2	13361-35-8
+p-Heptylaniline	C13H21N	37529-27-4
+SO2+	O2S+	12439-77-9
+4-Ethoxy-4'-butylazobenzene	C18H22N2O	31401-34-0
+Beta-cyanoethylhydrazine	C3H7N3	353-07-1
+2-Pyridinamine, 5-nitro-N-propyl-	C8H11N3O2	25948-11-2
+1,3-Dichloro-2-butene	C4H6Cl2	926-57-8
+Indole-3-acrylic acid, TMS	C17H25NO2Si2	55124-88-4
+Thallium heptanoate	C7H13O2Tl	34244-91-2
+Benzimidazole, 4,7-dichloro-2-(trifluoromethyl)-	C8H3Cl2F3N2	4228-89-1
+Thymidine, 3',5'-bis-O-TFA	C14H12F6N2O7	18354-10-4
+4-Dimethylaminobenzhydrazide	C9H13N3O	19353-92-5
+Benzenamine, 2,6-bis(1-methylethyl)-	C12H19N	24544-04-5
+		78164-31-5
+4-Chlorobenzyl radical	C7H6Cl	3327-51-3
+Sodium ethanoate	C2H3NaO2	127-09-3
+H3SiSiH(CH3)2	C2H10Si2	16342-86-2
+Titanium fluoride oxide	FOTi	17497-75-5
+3,5-Bis(trifluoromethyl)thiophenol	C8H4F6S	130783-02-7
+Bis(mesitylene)chromium iodide	C18H24CrI	12148-59-3
+Lithium silicate	Li2O5Si2	13568-46-2
+Furan, 2-methyl-5-(3-oxobutyl)	C9H12O2	13679-56-6
+1,4:5,8-Dimethanonaphthalene-9,10-dione, decahydro-, (1&#945;,4&#945;,4a&#945;,5&#945;,8&#945;,8a.alpha)-(.+/-.)-	C12H14O2	131213-98-4
+2-Nitro-3,4,6-trifluoroacetanilide	C8H5F3N2O3	388-11-4
+N,N-Dipentylaniline	C16H27N	6249-76-9
+Benzaldehyde, 2,4-dimethoxy-	C9H10O3	613-45-6
+InC2H4	C2H4In	126613-81-8
+CCl3+	CCl3+	27130-34-3
+Pentane, 2-isothiocyanato-2,4,4-trimethyl-	C9H17NS	17701-76-7
+Aluminum tris(acetylacetonate)	C15H21AlO6	13963-57-0
+Myrac aldehyde 2	C13H20O	37677-14-8
+4,5-Bis(nitratomethyl)furoxan	C4H4N4O8	57449-44-2
+2,4-Pentanedione, 3-methyl-	C6H10O2	815-57-6
+&#945;-linalool	C10H18O	598-07-2
+Trirhenium, dodecacarbonyl trihydride	C12H3O12Re3	73463-62-4
+Acetamide, n-(2-fluorenyl)-	C15H13NO	6292-55-3
+Aniline, 4-tert-butyl-2,6-diethyl-	C14H23N	67330-60-3
+Si8Na radical	NaSi8	143232-34-2
+6-Ethyl chrysene	C20H16	2732-58-3
+Boranamine, N,N-dimethyl-	C2H8BN	1838-13-7
+1',2',3',4'-Tetrahydro-1,2-dinaphthylmethane	C21H20	56818-06-5
+Diamyl maleate	C14H24O4	10099-71-5
+4-Heptene-3-thione,6,6,7,7-tetrafluoro-5-hydroxy-2-methyl-	C8H10F4OS	88552-01-6
+Furan, tetrahydro-	C4H8O	109-99-9
+p-Methoxybenzylidene p-biphenylamine	C20H17NO	25543-63-9
+Tetrabromo-1,2-benzoquinone	C6Br4O2	2435-54-3
+&#946;-Alanine	C3H7NO2	28854-76-4
+Titanium trifluoride	F3Ti	13470-08-1
+25-Hydroxycholesterol, TMS	C33H62O2Si2	33287-27-3
+Acetamide, n-(3,4-dimethyl-5-isoxazolyl)-n-sulfanilyl-	C13H15N3O4S	80-74-0
+Amphetamine, 3,4-methylenedioxy-6-methoxy	C11H15NO3	23693-18-7
+P-nitro carbanilic acid, n-undecyl ester	C18H28N2O4	93999-89-4
+Carbamic acid, 1-methylethyl ester	C4H9NO2	1746-77-6
+3-Hexanol, 4-methyl-	C7H16O	615-29-2
+Benzene, 1,1'-[1,3-propanediylbis(oxy)]bis-	C15H16O2	726-44-3
+6,10-Dimethyl-4,5,9-undecatrien-2-one	C13H20O	16647-05-5
+Sec-butyl isopropyl ether	C7H16O	18641-81-1
+Acetic acid, trifluoro-, annhydride with nitric acid	C2F3NO4	66693-89-8
+2,2-Dimethyl-1-phenyl-1-propanol	C11H16O	3835-64-1
+Ammonium hypophosphite	H3N.H3O2P	7803-65-8
+(1,4-dimethylpentyl)benzene	C13H20	24000-19-9
+hexanamide, N,N'-1,4-butanediylbis-	C16H30N2O2	58962-41-7
+Tetrachloroisophthalonitrile	C8Cl4N2	1897-45-6
+Pentane, 2-chloro-	C5H11Cl	625-29-6
+Iron, &#951;<sup>4</sup>-1,1-dimethylsilole tricarbonyl	C9H10FeO3Si	85944-69-0
+Methyl neoabietate	C21H32O2	3310-97-2
+Propane, 1-bromo-2-fluoro-	C3H6BrF	1871-72-3
+p-tert-Butylbenzyl bromide	C11H15Br	18880-00-7
+4-Hepten-3-one, 1,1,2,2-tetrafluoro-5-mercapto-6,6-dimethyl-	C9H12F4OS	64249-78-1
+2-Ethyl-2-nitro-1,3-propanediol dinitrate	C5H9N3O8	4153-96-2
+Li7	Li7	68247-44-9
+Digermanium dinitride oxide	Ge2N2O	51199-85-0
+1,8-Nonadiyne	C9H12	2396-65-8
+ethanone 1-(2,6-hydroxy-4-methoxyphenyl)	C9H10O4	7507-89-3
+1H-Benzimidazol-2-acetonitrile,&#945;-([3-hydroxyphenyl]methylene)-	C16H11N3O	131263-09-7
+2-Ethylidene-1,7,7-trimethylbicyclo[2.2.1]heptane	C12H20	62413-60-9
+1,2,4,5-Tetrachloro-3,6-dimethylbenzene	C8H6Cl4	877-10-1
+N,n-dimethyl-p-phenylenediamine, oxalate	C18H26N4O4	56331-39-6
+undecene	C11H22	28761-27-5
+L(-)-3-benzoylamino-4-benzoylmercapto-1-butanol benzoate	C25H23NO4S	10357-55-8
+Lithium, compound with sodium (1:1)	LiNa	12333-49-2
+Silane, dichlorodiethoxy-	C4H10Cl2O2Si	4667-38-3
+Bromogermane	H3BrGe	13569-43-2
+Pentacyclo[4.3.0.0<sup>2,5</sup>.0<sup>3,8</sup>.0<sup>4,7</sup>]nonane	C9H10	452-61-9
+N-(4-Carboxyphenyl)acetic acid amide	C9H9NO3	556-08-1
+Hexane, 2-methyl-3-(1-methylethyl)-	C10H22	62016-13-1
+Piperidine, 4-methyl-	C6H13N	626-58-4
+Phosphorane, trimethyl(2-methylallylidene)-	C7H15P	29218-65-3
+2-Methoxy-6-methylpyrazine	C6H8N2O	2882-21-5
+Benzene, 2-methoxy-1,3,5-trimethyl-	C10H14O	4028-66-4
+2-Methoxy ethyl formate	C4H8O3	628-82-0
+Titanium bromide	BrTi	23664-91-7
+Triisobutyl phosphate	C12H27O4P	126-71-6
+Platinum, bis(trimethylphosphine)dimethyl-	C8H24P2Pt	51351-75-8
+Glutaric acid, 3-hydroxy-, dimethyl ester	C7H12O5	7250-55-7
+Hydrocotarnine	C12H15NO3	550-10-7
+4-t-Butyl pyridine, 1-oxide	C9H13NO	23569-17-7
+4,7-Methano-1H-indene, 4,5,6,7,8,8-hexachloro-3a,4,7,7a-tetrahydro-	C10H6Cl6	3734-48-3
+1-Butene, 1-(1-propenyloxy)-, (Z,Z)-	C7H12O	61463-31-8
+1-Docosanethiol	C22H46S	7773-83-3
+2,2,2-Trichloro-3'-(trifluoromethyl)acetanilide	C9H5Cl3F3NO	1939-29-3
+11,12-Dehydrolupanine	C15H22N2O	35611-60-0
+Xylitol	C5H12O5	87-99-0
+ether, 2-(ethylthio)ethyl vinyl	C6H12OS	18370-87-1
+		175135-11-2
+Isomenthone	C10H18O	491-07-6
+Chlorodimethoxyborane	C2H6BClO2	868-81-5
+Phenol, 2-(1,1-dimethylethyl)-4-methyl-	C11H16O	2409-55-4
+Benzene, (2-chloropropyl)	C9H11Cl	10304-81-1
+Carbamic acid, dimethyl-, p-methoxyphenyl ester	C10H13NO3	7305-10-4
+NCCCNC	C4N2	83951-86-4
+Benzene, (2-methylbutyl)-	C11H16	3968-85-2
+1,3-propanediol, 2,2-dibutyl-	C11H24O2	24765-57-9
+Acetamide, 2-fluoro-	C2H4FNO	640-19-7
+Tri-n-butylamine, hydrochloride	C12H27N.ClH	6309-30-4
+Glutarate, TMS	C11H24O4Si2	55494-07-0
+1,3,5-Triazine, hexahydro-1,3,5-trinitro-	C3H6N6O6	121-82-4
+Galactonic acid, 1,4-lactone, TMS	C18H42O6Si4	55528-74-0
+3H-1,2-Dithiole-3-thione,5-(4-chlorophenyl)-	C9H5ClS3	5761-16-0
+Beryllium monohydride	HBe	13597-97-2
+docosane, 1-phenyl-	C28H50	5634-22-0
+Cyclohexanebutyronitrile	C10H17N	4441-66-1
+2,2,2-Trifluoro-1-methylethylidiene sulfurtetrafluoride	C2HF7S	88476-02-2
+cis-4-Tert-butylcyclohexyl methyl ketone	C12H22O	15619-11-1
+Bicyclo[4.2.1]non-1(2)-ene	C9H14	23057-36-5
+2,5-Dimethyl-3'-chloro-4'-benzyloxyazobenzene	C21H19ClN2O	88578-27-2
+Urea, N'-(4-chlorophenyl)-N,N-dimethyl-	C9H11ClN2O	150-68-5
+Propane, 2-ethoxy-	C5H12O	625-54-7
+2-Methylpyrrolidine	C5H11N	765-38-8
+Erbium trichloride	Cl3Er	10138-41-7
+3-Hexanone, 4,4-dimethyl-	C8H16O	19550-14-2
+1,2,3-Propenetricarboxylic acid, triethyl ester	C12H18O6	5349-99-5
+Tert-butyl amine hydrochloride	C4H11N.ClH	10017-37-5
+4-Dimethylamino-o-tolualdehyde	C10H13NO	1199-59-3
+Glutarimide, 3-[2-(3,5-dimethyl-2-oxocyclohexyl)-2-hydroxyethyl]-	C15H23NO4	21059-09-6
+Chloroxuron	C15H15ClN2O2	1982-47-4
+Benz-3,1-oxazine-2,4-dione, 1-pentyl-,	C13H15NO3	57384-48-2
+Tungsten,bis(&#951;<sup>5</sup>-2,4-cyclopentadien-1-yl)hydro(trimethylstannyl)-	C13H20SnW	51192-18-8
+Isoprenaline	C11H17NO3	7683-59-2
+Benzenemethanamine, &#945;-methyl-, (R)-	C8H11N	3886-69-9
+Methane, dibromodichloro-	CBr2Cl2	594-18-3
+Dialuminum monosulfide	Al2S	12004-45-4
+Triiodosilane	HI3Si	13465-72-0
+Ytterbium isothiocyanate hexahydrate	C3N3S3Yb.H12O6	91862-08-7
+Pyridine, 4-(2-(pyridyl-4)ethenyl)-, trans-	C12H10N2	14802-41-6
+3,4,5-trithiaheptane	C4H10S3	3600-24-6
+2H-thiopyran-4-imine, n-hydroxy-tetrahydro-1,1-dioxide	C5H9NO3S	99586-63-7
+Phosphorane, methylenetriphenyl-	C19H17P	3487-44-3
+2-(1-Naphthyl)-5-phenyl-1,3,4-oxadiazole	C18H12N2O	897-18-7
+1',3',5',6'-Tetramethylspiro[cyclopentane-1,2'-(2,3-dihydrobenzimidazole)]	C15H22N2	75751-20-1
+Methoxyacetyl chloride	C3H5ClO2	38870-89-2
+Methanediol	CH4O2	463-57-0
+2-Nonenal, (E)-	C9H16O	18829-56-6
+Chromium,pentacarbonyl[1-(4-pyridinyl)ethanone-N]-	C12H7CrNO6	64914-29-0
+Thiadiazolo[3,4-d]pyrimidine-5-thiol, 1,2,5-, 7-amino-	C4H3N5S2	90773-36-7
+4-Chlorobenzyl alcohol	C7H7ClO	873-76-7
+1,4-Pentadiene, 3-methyl-	C6H10	1115-08-8
+(2S,3S)-(-)-Bis(diphenylphosphino)butane (S,S)-CHIRAPHOS	(C6H5)2PCH(CH3)CH(CH3)P(C6H5)2	64896-28-2
+Acetylene	C2H2	74-86-2
+Benzophenone, 2-hydroxy-4-decycloxy-	C23H30O3	2162-63-2
+1-heptanol, 3-ethyl-	C9H20O	3525-25-5
+1-Pentene, 3-ethyl-2-methyl-	C8H16	19780-66-6
+2-Cyclohexen-1-one	C6H8O	930-68-7
+2-Cyclohexen-1-ol,1-methyl 4-(1-methylethyl)-trans	C10H18O	29803-81-4
+Chlorine dioxide	ClO2	10049-04-4
+Hexanedioic acid, bis(phenylmethyl) ester	C20H22O4	2451-84-5
+Acenaphthene	C12H10	83-32-9
+Cyclopropane, hexafluoro-	C3F6	931-91-9
+Pyridine, 2,6-dicarbinol	C7H9NO2	1195-59-1
+Methyl-4-hydroxy-3-nitrobenzoate	C8H7NO5	99-42-3
+1,16-Hexadecanediol	C16H34O2	23079-20-1
+		168833-80-5
+&#946;-Sesquiphellandrene	C15H24	20307-83-9
+3,5-Dimethoxyphenylacetonitrile	C10H11NO2	13388-75-5
+4-Methoxy-.alpha.-toluenethiol	C8H10OS	6258-60-2
+Quinuclidine	C7H13N	100-76-5
+Cyclohexene, 1-iodo-	C6H9I	17497-53-9
+cis 1,2-Dimethoxyethylene	C4H8O2	7062-96-6
+Salicylic acid, n-propyl ester	C10H12O3	607-90-9
+C8H13B	C8H13B	84787-61-1
+1-dodecanol, 2,2-dimethyl-	C14H30O	92318-63-3
+Manganese, ion	Mn+2	16397-91-4
+5-Ethylthiazole	C5H7NS	17626-73-2
+3-methylbutyl 2-methylbutanoate	C10H20O2	27625-35-0
+4-Hydroxypiperidine	C5H11NO	5382-16-1
+Di-n-tetradecylsebacate	C38H74O4	26719-47-1
+4,4,4-Trifluoro-3-hydroxy-3-methylbutyric acid	C5H7F3O3	338-03-4
+Ethanol, 2-chloro-	C2H5ClO	107-07-3
+4-Nitrobenzoyl urea	C8H7N3O4	51884-03-8
+p-Fluoro-&#945;-methylbenzylamine	C8H10FN	403-40-7
+2,5-Bis(anilino)-1,3,4-thiadiazole	C14H12N4S	1152-54-1
+8-Azabicyclo[3.2.1]octane,3-bromo-8-methyl-exo-	C8H14BrN	2292-11-7
+N-Decylaniline	C16H27N	3007-73-6
+1-Propene, 1-(methylthio)-, (E)-	C4H8S	42848-06-6
+3,4-Dimethoxy-3-cyclobutene-1,2-dione	C6H6O4	5222-73-1
+1-Hexyn-3-ol	C6H10O	105-31-7
+Benzaldehyde dimethyl acetal	C9H12O2	1125-88-8
+1,3,2,4-Diazadiphosphetidine,2,2,2,4,4,4-hexafluoro-2,2,4,4-tetrahydro-1,3-dimethyl-	C2H6F6N2P2	3880-04-4
+Thiazolo[3,2-a]pyridinium, 8-hydroxy-5-methyl-, hydroxide, inner salt	C8H7NOS	30277-17-9
+Phe, N-TFA, methyl ester	C12H12F3NO3	23635-30-5
+propanoyl fluoride, 2,2-dimethyl-	C5H9FO	1478-62-2
+Anthracene, 9-dodecyl-	C26H34	2883-70-7
+N-Nitro(3-fluoro-3,3-dinitropropyl	C6H9FN6O10	26459-83-6
+Chromium(iii) nitride	CrN	24094-93-7
+2,4,5,7-Tetramethyl-4,5-bis(4-tert-butylphenyl)octane	C32H50	85668-75-3
+3-(Trifluoromethyl)propiophenone	C10H9F3O	1533-03-5
+m-Fluorothiophenol	C6H5FS	2557-77-9
+Trifluoperazine	C21H24F3N3S	117-89-5
+2-Furancarboxaldehyde, 5-(hydroxymethyl)-	C6H6O3	67-47-0
+4-Chlorobenzenesulfonyl isocyanate	C7H4ClNO3S	5769-15-3
+Indeno[1,2-d]triazol-8(3H)-one,3a,8a-dihydro-3-phenyl-	C15H11N3O	55507-27-2
+3,3'-Diisopropylbiphenyl	C18H22	69375-12-8
+3,4-Dimethylcyclopentanone	C7H12O	58372-16-0
+3-Cyclohexen-1-one	C6H8O	4096-34-8
+1,4-Dimethyl-bicyclo[2.2.1]heptane	C9H16	20454-81-3
+1,3-Butanediamine	C4H12N2	590-88-5
+17H-Cyclopenta[a]phenanthrene	C17H12	219-08-9
+Propanedinitrile, 2-dicyclopropylmethylene-,	C10H10N2	13017-60-2
+1,3-Oxathiane,2,2,4,6-tetramethyl,trans-	C8H16OS	34560-78-6
+2-Methyl-1-heptanol	C8H18O	60435-70-3
+p-Heptyloxybenzylidene p-butylaniline	C24H33NO	29743-12-2
+Phosphine, bis(dimethylamino)-trimethylsilyl-p-oxide	C7H21N2OPSi	102925-59-7
+1,2-Dichlorohexafluoropropane	C3Cl2F6	661-97-2
+3-(2,2,2-Trichloro-1,1-dimethylethoxy)-2-benzofuran-1(3h)-one	C12H11Cl3O3	100062-58-6
+Barium	Ba	7440-39-3
+Propanoic acid, 2-chloro-	C3H5ClO2	598-78-7
+Butanoic acid, 3-methyl-	C5H10O2	503-74-2
+Pyrimido[5,4-e]-as-triazine-5(6h)-thione	C5H3N5S	21308-96-3
+Cerium tetracarbide	C4Ce	12151-79-0
+1,4,9,10-Anthracenetetrone	C14H6O4	1709-63-3
+Phenol, 3-nitro-	C6H5NO3	554-84-7
+2,4,5-Trichloroanisole	C7H5Cl3O	6130-75-2
+2,4,5-F3C6H2OH+	C6H3F3O+	77610-27-6
+1H-Inden-1-one, octahydro-, cis-	C9H14O	2826-65-5
+Thiirane, (ethylthiomethyl)-	C5H10S2	93248-08-9
+Benzoic acid, 2-nitro-, methyl ester	C8H7NO4	606-27-9
+17Alpha-hydroxy progesterone	C21H30O3	60-49-1
+Iso-butyl-phenyl-acetate	C12H16O2	102-13-6
+C3H11NSi	C3H11NSi	7379-79-5
+C14H11N	C14H11N	93717-55-6
+Naphthalene, 1,3,8-trinitro-	C10H5N3O6	2364-46-7
+Dimethallyl ether	C8H14O	628-56-8
+Glycidaldehyde	C3H4O2	765-34-4
+Tetrachlorobis(cyclohexylmercapto)titanium (IV)	TiCl4(HSC6H11)2	149391-23-1
+4-Methyldiphenylmethane	C14H14	620-83-7
+m-C6H4F	C6H4F	2973-47-9
+N,N,N-Triacetylamine	C6H9NO3	641-06-5
+3,4-Dihydro-6-methyl-2H-pyran-2-one	C6H8O2	3740-59-8
+Isopropyl pentyl ether	C8H18O	5756-37-6
+Cis-1,4-cyclohexanedimethanol	C8H16O2	3236-47-3
+4a,8a-Ethenonaphthalene, 1,2,3,4,5,8-hexahydro-	C12H16	24139-32-0
+Aniline, 4,4'-(imidocarbonyl)bis-(n,n-dimethyl)-, hydrochloride	C17H21N3.ClH	2465-27-2
+Acetic acid, 2-mercaptoethyl ester	C4H8O2S	5862-40-8
+Borane, tris(1-methylethyl)-	C9H21B	1776-66-5
+Benperidol	C22H24FN3O2	2062-84-2
+4-Methyl-2-pentanone, 2,4-dinitrophenyl-hydrazone	C12H16N4O4	1655-42-1
+HCOOCa	CHCaO2	126725-12-0
+octapentacontane	C58H118	7667-78-9
+Ethyl, 1-fluoro-1-methyl-	C3H6F	52146-32-4
+Hydrazine, n-isonicotinoyl-n'-[beta-(n-benzylcarboxamido)ethyl]-	C16H18N4O2	51-12-7
+4-Cyanobenzoic acid methyl ester	C9H7NO2	1129-35-7
+Ag3Au radical	Ag3Au	66530-85-6
+Ethanol, 2-(dimethylamino)-, N-oxide	C4H11NO2	10489-99-3
+Alpha,alpha'-diacetyl-4,4'-difluoro-glutaranilide	C21H20F2N2O4	807-75-0
+Dimethylvinylethynylhydroperoxide	C7H10O2	14906-26-4
+Piperazine, n,n'-diphenyl-	C16H18N2	613-39-8
+6-Aza-2-thiothymine	C4H5N3OS	615-76-9
+Platinum, dichlorobis(trimethylphosphine)-	C6H18Cl2P2Pt	21545-76-6
+Iron	Fe	7439-89-6
+p-Nitropropylbenzene	C9H11NO2	10342-59-3
+4-Methyl-1,6-heptadien-4-ol	C8H14O	25201-40-5
+Isonicotinic acid, 2-(1-adamantyl)ethyl ester	C18H23NO2	64140-42-7
+2-(Pentylamino)ethanol	C7H17NO	35161-67-2
+6-Chloro-2-methyl-7-methylsulfamyl-benzothiatriazine-1,1-dioxide	C8H9ClN4O4S2	1917-30-2
+Pentanoic acid, 4,4-dimethyl-3-oxo-, methyl ester	C8H14O3	55107-14-7
+Dibenzo[c,kl]xanthene	C20H12O	216-58-0
+Vinyldiphenylchlorosilane	C14H13ClSi	18419-53-9
+Stearic acid, 12-hydroxy-	C18H36O3	106-14-9
+Methyl 5-acetylsalicylate	C10H10O4	16475-90-4
+2-Silylfuran	C4H6OSi	73726-79-1
+2-Octynenitrile	C8H11N	5663-95-6
+Lead(II) decanoate	C20H38O4Pb	15773-52-1
+Cyclopenta[ef]heptalene,3,5,8,10-tetramethyl-	C18H18	17597-70-5
+4-F-C6H4-C(Si(CH3)3)=CH2	C11H15FSi	140843-92-1
+D-camphoric anhydride	C10H14O3	595-29-9
+9H-purine-6(1h)-one, 9-benzyl-	C12H10N4O	14013-11-7
+1-Butyne, 3,3-dimethyl-1-phosphinyl-	C6H11P	77376-07-9
+Pentafluorobenzoyl chloride	C7ClF5O	2251-50-5
+Magnesium fluoride cation	FMg+	21308-25-8
+Santolina alcohol	C10H18O	21149-19-9
+N-2-(1-hydroxy-3-methyl) butylbenzamide	C12H17NO2	92265-07-1
+Cyclohexanol, 4-bromo-	C6H11BrO	89599-47-3
+Phosphoric triamide, N,N,N',N&quot;-tetramethyl-	C4H14N3OP	16853-36-4
+2-Hexyne	C6H10	764-35-2
+1,2-Di-(m-toluoyl)-hydrazine	C16H16N2O2	59646-36-5
+cis-1,3,5-trimethylcyclopentene	C8H16	500031-65-2
+Methyl diphenylphosphinite	C13H13OP	4020-99-9
+Methyl 10-oxodecanoate	C11H20O3	14811-73-5
+Betazole	C5H9N3	105-20-4
+Hydantoin, 1-chloro-5,5-dimethyl-	C5H7ClN2O2	6921-17-1
+1-Hexene, 3,3-dimethyl-	C8H16	3404-77-1
+Gallium	Ga	7440-55-3
+2-Cyanoselenophene	C5H3NSe	7651-60-7
+1-Amino-2,6-dimethylpiperidine	C7H16N2	39135-39-2
+4-Nitrophenyl-4'-n-octyloxybenzoate	C21H25NO5	52910-78-8
+3-BrC6H4NH2	C6H6BrN	591-19-5
+Tetradecanoic acid, 7-oxo-, methyl ester	C15H28O3	54527-03-6
+Cobalt	Co	7440-48-4
+1,1'-Biphenyl, 2-methoxy-	C13H12O	86-26-0
+-Chamigrene	C15H24	18431-82-8
+1,2,3-Propanetriol, diacetate	C7H12O5	25395-31-7
+o-Allyl oo-tert-butylsuccinate	C11H18O5	52345-52-5
+Plutonium	Pu	7440-07-5
+1-Propanamine, 2-methyl-	C4H11N	78-81-9
+2-Oxa-3-oxobicyclo[2.2.0]hex-5-ene	C5H4O2	22980-23-0
+3,5-Xylenol, aplha,aplha,aplha,aplha',aplha',aplha'-hexafluoro-	C8H4F6O	349-58-6
+1-Methoxycyclohexane	C7H14O	931-56-6
+Phenol, TMS	C9H14OSi	1529-17-5
+Uranium tetrabromide	Br4U	13470-20-7
+Isoaminile	C16H24N2	77-51-0
+Thiazolidin-2-one	C3H5NOS	2682-49-7
+Anti-tricyclo[3.2.0.0(2,4)]hept-6-ene	C7H8	79356-83-5
+Thiazole, 4,5-dihydro-2-methyl-	C4H7NS	2346-00-1
+(E)-4-(p-Nitroanilino)-3-penten-2-one	C11H12N2O3	20771-72-6
+Mercury bromide	Br2Hg2	15385-58-7
+2-Methyl-2,3-pentanediol	C6H14O2	7795-80-4
+Pentacarbonyl(&#945;-methoxybenzylidene)chromium	C13H8CrO6	27436-93-7
+Benzaldehyde, 2,6-dichloro-	C7H4Cl2O	83-38-5
+Uracil, 5-[bis(2-chloroethyl)-amino]-	C8H11Cl2N3O2	66-75-1
+N-nitroso-n-phenyl-benzylamine	C13H12N2O	612-98-6
+Pantolactone	C6H10O3	599-04-2
+HCCCO	C3HO	134389-55-2
+Ethyl pentafluoropropanoyl acetate	C7H7F5O3	663-35-4
+		114715-39-8
+CH2SH+	CH3S+	20879-50-9
+Bicyclo[2.2.1]hepta-2,5-diene, 2-phenyl-	C13H12	74437-39-1
+Aminophylline	C16H24N10O4	317-34-0
+Indium monobromide	BrIn	14280-53-6
+1,2,3,5-tetramethylcyclohexane	C10H20	3726-36-1
+2-Butenoic acid, 3-methyl-, trimethylsilyl ester	C8H16O2Si	25436-25-3
+Benfluorex	C19H20F3NO2	23602-78-0
+Glycine, N-benzoyl-, trimethylsilyl ester	C12H17NO3Si	2078-24-2
+Benzene, 2-bromo-1,3-dimethyl-	C8H9Br	576-22-7
+2-Octen-4-one	C8H14O	4643-27-0
+1-Penten-3-yl radical	C5H9	17829-37-7
+cis-1,3-Diethenylcyclobutane	C8H12	77614-53-0
+Ethanamine, N-ethyl-N-methyl-, compound with bromine(1:1)	C5H13Br2N	59777-81-0
+3-Aminofluoranthene	C16H11N	2693-46-1
+&#951;<sup>5</sup>-Cyclopentadienyl titanium trichloride	C5H5Cl3Ti	1270-98-0
+Benzenemethanol, 4-bromo-	C7H7BrO	873-75-6
+2,8,9-Trioxa-5-aza-1-silabicyclo[3.3.3]undecan-3-one, 1-chloromethyl-	C7H12ClNO4Si	81382-20-9
+1,2-Cycloheptanediol, trans-	C7H14O2	13553-19-0
+Propanoic acid, 2-methyl-, butyl ester	C8H16O2	97-87-0
+cis-3-Undecene	C11H22	821-97-6
+Octanoic acid, trimethylsilyl ester	C11H24O2Si	55494-06-9
+3-Amino-1-azabicyclo[2.2.2]octane	C7H14N2	6238-14-8
+Ephedrine	C10H15NO	299-42-3
+Butane, 2-bromo-3-fluoro-, (r*,r*)-	C4H8BrF	57302-15-5
+Mono-octyl phosphate	C8H19O4P	3991-73-9
+Trimethobenzamide	C21H28N2O5	138-56-7
+Bis(8-methylnonyl) hexanedioate	C26H50O4	142-53-0
+Mg(Br)(C2H3)	C2H3BrMg	1826-67-1
+1,3,5,7-Tetramethyladamantane	C14H24	1687-36-1
+Dipropyldiazene	C6H14N2	821-67-0
+4-Amino-2,1,3-benzothiadiazole	C6H5N3S	767-64-6
+Diphenadione	C23H16O3	82-66-6
+Octyl diphenyl phosphate	C20H27O4P	115-88-8
+P-phenylazo carbanilic acid, n-decyl ester	C23H31N3O2	95293-42-8
+4-Isopropyl-2,6,7-trioxa-1-phosphabicyclo[2.2.2]octane-1-oxide	C7H13O4P	51052-72-3
+2-[2-(Diethylamino-ethylamino]-5-chloro-2'-fluorobenzophenone	C19H22ClFN2O	36105-18-7
+TMS trans-9-octadecenoate	C21H42O2Si	96851-47-7
+1-Ethanone, 2-hydroxy, 1-(4-dimethylaminophenyl)-2-phenyl	C16H17NO2	6317-85-7
+Benzyl isocyanate	C8H7NO	3173-56-6
+4H-1-Benzopyran-4-one	C9H6O2	491-38-3
+Potassium cation	K+	24203-36-9
+cyc-1-C7H5F	C7H5F	107135-22-8
+1,4-Dicyclopropylbuta-1,3-diyne	C10H10	114546-62-2
+Cobalt cation	Co+	16610-75-6
+Phosphorodiamidic acid, tetramethyl-, pentachlorophenyl ester	C10H12Cl5N2O2P	1440-97-7
+p-Xylene, &#945;,&#945;,&#945;',&#945;',2,3,5,6-octachloro-,	C8H2Cl8	2142-31-6
+3-Anilinomethyl-2(3)-benzole thiazolethione	C14H12N2S2	5392-35-8
+3-Cyclobutene-1,2-dione, 3,4-dimethyl-	C6H6O2	1121-15-9
+Proxymetacaine	C16H26N2O3	5875-06-9
+Disulfane, 1,1,1,2-tetrafluoride	F4S2	27245-05-2
+1,3,5,7-Estratetraen-3-ol-17-one	C18H20O2	474-86-2
+Piperidine, 1,1'-(1,4-phenylenedicarbonyl)bis-	C18H24N2O2	15088-30-9
+heptyl nonanoate	C16H32O2	71605-85-1
+2-Methoxyisopropyl allyl ether	C7H14O2	62322-46-7
+Isophytol	C20H40O	505-32-8
+m-Aminobenzenesulfonamide	C6H8N2O2S	98-18-0
+2,4-Hexadiene	C6H10	592-46-1
+1H-Indene, 3a,4,7,7a-tetrahydro-, trans-	C9H12	66563-20-0
+1,2-Cyclohexanediol, trans-	C6H12O2	1460-57-7
+Undecanolactone	C11H20O2	710-04-3
+3-Oxo-&#945;-ionol	C13H20O2	34318-21-3
+1,1,1-Trichloro-3,3,3-trifluoroacetone	C3Cl3F3O	758-42-9
+Benzoic acid, 4-nitro, heptyl ester	C14H19NO4	14309-44-5
+2,5-Diethylthiophene	C8H12S	5069-23-8
+Europium trichloride	Cl3Eu	10025-76-0
+Acetic acid, phosphono-, p,p-diisopropyl c-benzyl ester	C15H23O5P	109643-29-0
+Alpha-bromo-4-nitro-o-cresol	C7H6BrNO3	772-33-8
+Oxazole, 4,5-dihydro-2,4,4-trimethyl-	C6H11NO	1772-43-6
+n-Butyl dichloro acetate	C6H10Cl2O2	29003-73-4
+N-Phenylbenzoic acid amide	C13H11NO	93-98-1
+2-Pyridyl-1,2-ethanediol	C7H9NO2	394-40-1
+Bicyclo[2.2.2]octane-1-carboxylic acid, 4-methyl-	C10H16O2	702-67-0
+Oxetane, 2-methyl-	C4H8O	2167-39-7
+Pentadecane, 2-methyl-	C16H34	1560-93-6
+Benzene, 1-bromo-2-ethenyl-	C8H7Br	2039-88-5
+Phenol, 4-heptyl-	C13H20O	1987-50-4
+Glycidyl butyrate	C7H12O3	2461-40-7
+Bis-(&#951;<sup>6</sup>-1,2,3-trimethylbenzene) chromium	C18H24Cr	57820-96-9
+1H,1H,11H-Eicosafluoro-1-undecanol	C11H4F20O	307-70-0
+Heptyl benzyl succinate	C18H26O4	119450-15-6
+Phenol, 4-(2-aminoethyl)-	C8H11NO	51-67-2
+o-Chlorobenzylidene acetamide	C9H8ClNO	15851-90-8
+5-Amino-2,2-dimethylpentanol	C7H17NO	13532-77-9
+Phosphoric acid, triisopropyl ester	C9H21O4P	513-02-0
+2,7-Naphthyridine,1,3,4,5,6,8-hexafluoro-	C8F6N2	56595-14-3
+2-Quinolinecarboxylic acid	C10H7NO2	93-10-7
+Carbonic acid, dimethyl ester	C3H6O3	616-38-6
+Iodomethyl methyl ether	C2H5IO	13057-19-7
+3-(1'-Hydroxy-2'-pentyl) mercaptothiophene	C9H14OS2	116529-12-5
+sulfuric acid, dipentyl ester	C10H22O4S	5867-98-1
+Methane, (p-bromophenyl)-(p-chlorophenyl)-	C13H10BrCl	30203-84-0
+1-Methylallyl acetate	C6H10O2	6737-11-7
+Di-tert-butyldiazene-N-oxide	C8H18N2O	87339-11-5
+Phenol, m-tert-butyl-	C10H14O	585-34-2
+1,2,3,4-tetrahydro-1,5,8-trimethyl-naphthalene	C13H18	21693-51-6
+1-Imidazolidinecarboxamide, n-(2-chloroethyl)-2-oxo-	C6H10ClN3O2	16813-33-5
+cis-3-Hepten-1-ol	C7H14O	1708-81-2
+3-(2-Propylidene)-1,4-pentadiene	C8H12	83615-93-4
+Triosmium, bis(&#956;<sup>3</sup>-selenido)nonacarbonyl-	C9O9Os3Se2	72282-41-8
+2,2-Dimethylthiirane	C4H8S	3772-13-2
+2-(Benzylamino)-5-nitropyridine	C12H11N3O2	21626-41-5
+Hydroxycitronellal dimethyl acetal	C12H26O3	141-92-4
+3-Amino-2,5-dichlorobenzoic acid	C7H5Cl2NO2	133-90-4
+Cyclopropane,1,1',1&quot;-(1-ethenyl-2-ylidene)tris-	C11H16	23603-63-6
+1,2,4,5-Hexatetraene, 3-methyl-	C7H8	57212-57-4
+2-Aminopyrene	C16H11N	1732-23-6
+Bicyclo[4.2.1]non-1(8)-ene	C9H14	23057-35-4
+Nordazepam	C15H11ClN2O	1088-11-5
+2',5'-Dihydroxypropiophenone	C9H10O3	938-46-5
+3-hexanone, 2,2,4,4-tetramethyl-	C10H20O	20669-05-0
+Thiirane, ethenyl-	C4H6S	5954-75-6
+Carbofenotion	C11H16ClO2PS3	786-19-6
+2,6-Dimethyl 1,7-octadiene	C10H18	6874-35-7
+3-Methoxy-17beta-formyl-1,3,5(10)-estratriene	C20H26O2	63779-92-0
+cis-Bicyclo[5.3.0]decane	C10H18	16189-46-1
+Arsine, (trifluorosilyl)-	H2AsF3Si	53098-12-7
+Ethanethiol, 2-(propylamino)-, hydrochloride	C5H14ClNS	33744-35-3
+&#945;-D-Xylose	C5H10O5	31178-70-8
+2,4-Azetidinedione, 3,3-diethyl-	C7H11NO2	42282-85-9
+3,4-Dicyanothiophene	C6H2N2S	18853-32-2
+4(1H)-Pyrimidinone, 2,6-diamino-	C4H6N4O	56-06-4
+cis-Carveyl acetate	C12H18O2	1205-42-1
+Sulfur bromide fluoride	BrF5S	15607-89-3
+Dimethylammonium tetrafluoroborate	C2H8BF4N	16970-97-1
+Oxime of 5-acetyl-4-methyl-4-thiazoline-2-thione	C6H8N2OS2	89691-87-2
+Manganese,tricarbonyl[(1,2,3,4,5-&#951;<sup>5</sup>)-2,4,6-cycloheptatrien-1-yl]-	C10H7MnO3	53011-14-6
+Phenol, 2,3-dichloro, TMS	C9H12Cl2OSi	67947-14-2
+Meso-2,3-diethylbutanedioic acid	C8H14O4	35392-80-4
+Stannane,cyclopentyltrimethyl-	C8H18Sn	15095-84-8
+Propane, 1-chloro-3-iodo-	C3H6ClI	6940-76-7
+Bicyclo[2.2.0]hex-2-ene	C6H8	3097-63-0
+Iron, bromodicarbonyl(&#951;<sup>5</sup>-2,4-cyclopentadien-1-yl)-	C7H5BrFeO2	12078-20-5
+1,3,3,3-tetrachloro-2-methyl-1-propene	C4H4Cl4	500060-24-2
+2-Fluoro-4-(trifluoromethyl)acetophenone	C9H6F4O	122023-29-4
+1-(3-Trifluoromethylphenyl)imidazoline-2-thione	C10H7F3N2S	17452-08-3
+2-Carboxamide, 4-cyclohexyl butyric acid	C11H19NO3	116346-21-5
+1,3-Propanediamine, N-(3-aminopropyl)-N-methyl-	C7H19N3	105-83-9
+Propionic acid, 3-[2-(dodecyloxy)ethoxy]- methyl ester	C18H36O4	7448-04-6
+Hydrazine	H4N2	302-01-2
+hexacyanobenzene radical	C12N6	1217-44-3
+cyclopropane, 1,2-dichloro-, trans-	C3H4Cl2	39199-87-6
+LaC14 radical	C14La	167314-81-0
+Phenol, 4-dodecyl-	C18H30O	104-43-8
+Benzoic acid, 4-nitro-	C7H5NO4	62-23-7
+Butyrimidicthio acid, n-phenyl-, ehtyl ester	C12H17NS	19255-90-4
+9-Diazo-10-oxophenanthrene	C14H8N2O	7509-44-6
+2-Propenoic acid, 3-phenyl-	C9H8O2	621-82-9
+Allyldiphenylphosphine	C15H15P	2741-38-0
+5A-Pregnan-3,10-dione	C21H32O2	566-65-4
+4-n-Pentanoyl-4-n'-ethanoyloxyazobenzene	C19H20N2O3	120102-96-7
+Pyridine, 4-methoxy-	C6H7NO	620-08-6
+Benzene, 1-methoxy-4-nitro-	C7H7NO3	100-17-4
+Benzene, 1-(1,1-dimethylethyl)-4-methoxy-	C11H16O	5396-38-3
+Dodecanoic acid, 2,3-dihydroxypropyl ester	C15H30O4	142-18-7
+N,N'-Bis-(p-methoxyphenyl)terephthalamide	C22H20N2O4	7144-15-2
+1,1'-Biphenyl, 2,3,3',4,4',5-hexachloro-	C12H4Cl6	38380-08-4
+1-Hexanol, 2-ethyl-	C8H18O	104-76-7
+Fluorene, 1,2,3,4,4a,9a-hexahydro-, cis-	C13H16	1559-97-3
+1,1'-Biphenyl, 2,2',3,6'-tetrachloro-	C12H6Cl4	41464-47-5
+2,6-Octadien-1-ol, 3,7-dimethyl-, (E)-	C10H18O	106-24-1
+Diazene, bis(hexahydro-2,5-methanopentalen-3a(1H)-yl)-, (E)-	C18H26N2	107454-66-0
+4-Bromo-2-methylphenol	C7H7BrO	2362-12-1
+Benzene, 1,4-diethoxy-	C10H14O2	122-95-2
+1,1,1',1'-Tetrakis(difluoroamino)-N-1,1'-trifluorodimethylamine	C2F11N5	17125-67-6
+3-Pentanone, 1-phenyl-	C11H14O	20795-51-1
+AlCCAl	C2Al2	154427-19-7
+Bisphenol F, ortho-para', TMS	C19H28O2Si2	97993-27-6
+Benzene, 1,3-dichloro-2-(chloromethyl)-	C7H5Cl3	2014-83-7
+Octadecane, 1-bromo-	C18H37Br	112-89-0
+Hydrazine, (1-methylethyl)-	C3H10N2	2257-52-5
+Dihydrojasmone	C11H18O	1128-08-1
+Mercury dibromide	Br2Hg	7789-47-1
+Cyclohexane, 1-isopropyl-1-methyl-	C10H20	16580-26-0
+3-chloro-1,1,1,2,2-pentafluoropropane	C3H2ClF5	422-02-6
+1-Methyl-4-t-butyl-3-methoxy-2,6-dinitrobenzene	C12H16N2O5	83-66-9
+Bicyclo[2.1.0]pentane-1-carbonitrile	C6H7N	31357-71-8
+Dichloroethylmethylsilane	C3H8Cl2Si	4525-44-4
+Fe(CO)	CFeO	71701-40-1
+2-Pentanone,4,4'-(1,2-ethanediyldinitrilo)bis-	C12H20N2O2	6310-76-5
+Tricyclo[8.2.2.2<sup>4,7</sup>]hexadeca-4,6,10,12,13,15-hexaene,2,2,3,3,8,8,9,9,-octafluoro-	C16H8F8	3345-29-7
+Ketone, 5-chloro-4-nitro-2-thienyl methyl	C6H4ClNO3S	42456-75-7
+3-CH3C6H4C(CH3)=CH2	C10H12	26444-18-8
+1,3-Benzodioxole-5-carboxylic acid	C8H6O4	94-53-1
+3-Oxatricyclo[4.1.1.02,4]octane, 2,7,7-trimethyl-	C10H16O	1686-14-2
+2,2-Dimethylthiazolidine	C5H11NS	19351-18-9
+4,4,7,7-Tetramethylcyclodecene cis	C14H26	2198-41-6
+Dibenzo-p-dioxin, 1,2,4,6,7,9-hexachloro-	C12H2Cl6O2	39227-62-8
+1,2-Dicyano-tetraphenyl-ethane	C28H20N2	3122-21-2
+2-Heptenal, (E)-	C7H12O	18829-55-5
+8-Methylenepentacyclo[5.4.0.0<sup>2,6</sup>.0<sup>3,10</sup>.0<sup>5,9</sup>]undecane	C12H14	71871-56-2
+HCCAsH2	C2H3As	82408-70-6
+Silane, 1,4-naphthalenediylbis[trimethyl-]-	C16H24Si2	1024-47-1
+1-Butanamine, 2-methyl-	C5H13N	96-15-1
+Methanesulfonamide, N-phenyl-1,1,1-trifluoro-	C7H6F3NO2S	456-64-4
+Propane, 2,2-bis[4-(2,3-dibromopropoxy)-3,5-dibromophenyl-]-	C21H20Br8O2	21850-44-2
+1-Ethyldecalin	C12H22	25551-49-9
+3-Isopropylcatechol	C9H12O2	2138-48-9
+2-Amino-5-chlorothiazole	C3H3ClN2S	41663-73-4
+2-Thioxo-4-thiazolidinone	C3H3NOS2	141-84-4
+Al(Cl)2(He)	C6H13AlCl2	13487-95-1
+Methyltetrahydrophthalic anhydride	C9H10O3	26590-20-5
+2,4,6-Tribromotoluene	C7H5Br3	6320-40-7
+Benzylamine, n-(o-nitrophenyl)-	C13H12N2O2	5729-06-6
+HCCS	C2HS	79010-88-1
+o-Hydroxyphenylacetic acid, methyl ester	C9H10O3	22446-37-3
+1-Ethyloxindole	C10H11NO	61-28-9
+Hexamethylcyclotriphosphazene	C6H18N3P3	6607-30-3
+2,3,7,8,12,13,17,18-Octaethyl-21H,23H-porphine zinc(ii)	C36H44N4Zn	17632-18-7
+4-Phenoxyphenethylamine	C14H15NO	118468-18-1
+Benzenemethanol, 4-methoxy, TMS	C11H18O2Si	14629-56-2
+7-Dodecen-1-ol, acetate	C14H26O2	16677-06-8
+Polyisocyanurate	(C15H10N2O2)n	25686-28-6
+2,4-DP methyl ester	C10H10Cl2O3	23844-57-7
+5-Hexen-2-one-p-nitro-phenyl hydrazone	C12H15N3O2	116435-43-9
+1,3-Dioxolane, 2-ethyl-4-methyl-, trans-	C6H12O2	1860-13-5
+1,4-Benzenediol, 2-chloro-	C6H5ClO2	615-67-8
+Tricyclo[4.2.1.0(2,5)]non-2(5)-ene	C9H10	41487-78-9
+(CH3)2N-C(4-CH3-C6H4)=NCH3	C11H16N2	120235-03-2
+Cyclohexene, 3-ethenyl-	C8H12	766-03-0
+1,2,4-Benzenetriol	C6H6O3	533-73-3
+Methane, bromodichloronitroso-	CBrCl2NO	73411-12-8
+Benzene, 1-chloro-2-nitro-	C6H4ClNO2	88-73-3
+1,3,2-Dithiastannolane,2,2-dimethyl-	C4H10S2Sn	1072-55-5
+Strontium tetraoxomolybdate	MoO4Sr	13470-04-7
+1,2:7,8-Dibenzocarbazole	C20H13N	239-64-5
+Disodium	Na2	25681-79-2
+Thioproperazine	C22H30N4O2S2	316-81-4
+1,4-Benzenediol, monobenzoate	C13H10O3	2444-19-1
+Neodecanoic acid	C10H20O2	26896-20-8
+Propionic acid, 3-(4-chloro-3,5-xylyloxy)-, ethyl ester	C13H17ClO3	53830-54-9
+4,5-dihydro-2-ethylthiophen-3(2H)-one	C6H10OS	52662-38-1
+Tetradecanoic acid, 2,3-dihydroxypropyl ester	C17H34O4	589-68-4
+1,6-Hexamethylene diisocyanate polycyclotrimer	(C8H12N2O2)n	28182-81-2
+1,1'-Binaphthalene,8,8'-di(methyl-d)-	C22H16D2	52963-27-6
+2-Butenedioic acid, bis-DMTBS	C16H32O4Si2	99461-81-1
+3,4&#945;-dihydro-4a&#945;,7&#945;,7a&#945;-Nepetalactone	C10H16O2	17672-96-7
+Thiirane, 2,2-dimethyl-3-(1-methylethylidene)-	C7H12S	61097-65-2
+Betaine phosphate	C5H14NO6P	58823-88-4
+Acetanilide, 2-tert-butyl-	C12H17NO	7402-70-2
+3-Bromocinnamic acid	C9H7BrO2	32862-97-8
+Dirhenium heptaoxide	O7Re2	1314-68-7
+4-(Methylthio)phenyl isothiocyanate	C8H7NS2	15863-41-9
+cyc-C4H6Si:	C4H6Si	80025-08-7
+5,5-Dimethyl-2-isopropyl-1,3-dioxane	C9H18O2	7651-50-5
+Ne2F	FNe2	66198-64-9
+1-Cyclopentylacetonitrile	C7H9N	22734-04-9
+Cellobiose	C12H22O11	528-50-7
+Ethanone, 1-(4-methylcyclohexyl)-	C9H16O	1879-06-7
+Fluorene, 2-nitro-	C13H9NO2	607-57-8
+Methanone, (2-nitrophenyl)phenyl-	C13H9NO3	2243-79-0
+Ethylenediamine, n-ethyl-n'-methyl-	C5H14N2	111-37-5
+1,3,7,9-Tetrachlorodibenzo-p-dioxin	C12H4Cl4O2	62470-53-5
+Manganese technetium decacarbonyl	C10MnO10Tc	41375-72-8
+Etafedrine	C12H19NO	48141-64-6
+Manganese, &#951;<sup>5</sup>-hexa-2,4-dien-1-yl tricarbonyl	C9H9MnO3	96480-95-4
+Benz[j]aceanthrylen-1-ol, 1,2-dihydro-3-methyl-	C21H16O	3342-98-1
+O-nitro carbanilic acid, cinnamyl ester	C16H14N2O4	93014-31-4
+3-Chlorobenzoylacetonitrile	C9H6ClNO	21667-62-9
+9-Cyanoanthracene dimer	C30H18N2	33998-38-8
+Pyrimidine, 5-amino-4-hydrazino-, hydrochloride	C4H8ClN5	108801-16-7
+Benzene, 1-chloro-4-phenoxy-	C12H9ClO	7005-72-3
+Hexadecanoic acid, dodecyl ester	C28H56O2	42232-29-1
+Alanine, N-(N-acetyl-D-alanyl)-N-methyl-, methyl ester, D-	C10H18N2O4	19914-34-2
+phenol, 2,4-diethyl-	C10H14O	936-89-0
+Silanediamine, 1,1-dichloro-N,N,N',N'-tetramethyl-	C4H12Cl2N2Si	13328-30-8
+Phenalene,1-thione-9-(methylethyl)amino-	C16H15NS	69915-36-2
+Tetrahydrolinalyl acetate	C12H24O2	20780-48-7
+Methoxybromofluoroborane	CH3BBrFO	38481-08-2
+z1-Indanone, 5,6-dimethoxy-3,3-dimethyl-,	C13H16O3	4136-26-9
+2-Propanone, 1,1,1,3,3,3-hexachloro-	C3Cl6O	116-16-5
+3-Formyl-2-methylthiopyridine	C7H7NOS	62658-92-8
+Butyronitrile, 4-diisopropylamino-2-phenyl-2-(2-pyridyl)-	C21H27N3	5005-46-9
+4-[1-(4-Aminophenyl)-1-methylethyl]phenylamine	C15H18N2	2479-47-2
+1,3-Thiazine-6-one-4-ol, 2-(4-bromophenyl)-	C10H6BrNO2S	95642-53-8
+3-Methoxy-1,3,3-triphenylpropyne	C22H18O	850-65-7
+Pyrrolidine,1-cyclohexyl-	C10H19N	7731-02-4
+Titanium,[(1,2,3,4,5-)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl](6-1,2,3,4-tetramethyl-5-methylene-1,3-cyclopentadiene)-	C20H29Ti	53436-87-6
+1-nonanol, 2-heptyl-	C16H34O	25355-03-7
+1H-1,2,4-Triazole, 3-chloro-	C2H2ClN3	6818-99-1
+(E)-3,3-Dimethyl-1-trimethylsilyl-1-butene	C9H20Si	20107-37-3
+Decane, 4-ethyl	C12H26	1636-44-8
+2,3-Epoxy-2,4,4-trimethyl pentane	C8H16O	96-06-0
+2-methyl-5-ethylthiazole	C6H9NS	19961-52-5
+4-Amino-3-chlorobenzonitrile	C7H5ClN2	21803-75-8
+Beta-hydroxybutyraldehyde	C4H8O2	107-89-1
+Benzene-hexa-n-heptanoate	C48H78O12	65201-70-9
+4,5-Bis(dimethylamino)fluorene	C17H20N2	86943-85-3
+Flurazepam M (N-1-des-alkyl, 3-hydroxy)	C15H10ClFN2O2	17617-60-6
+Mephobarbital	C13H14N2O3	115-38-8
+.alpha.-Phenylcinnamic acid	C15H12O2	3368-16-9
+Procyclidine	C19H29NO	77-37-2
+Glycerol-2-nitrate	C3H7NO5	620-12-2
+Manganese, bromo tetracarbonyl	C4BrMnO4	71518-82-6
+&#945;-Terpenyl isovalerate	C15H26O2	1142-85-4
+Lincomycin	C18H34N2O6S	154-21-2
+3-Acetyl-5-methylmercapto-1,3,4-thiadiazolidone-2-azine	C10H12N6O2S4	109967-13-7
+Thioacetic acid, o-ethyl ester	C4H8OS	926-67-0
+3,4-Dimethyl-3-cyclohexenylmethanal	C9H14O	93861-86-0
+2-methyl-5-thiadecane	C10H22S	7352-01-4
+Dibenzo[b,k]chrysene	C26H16	217-54-9
+Al(Br)2(Et)	C2H5AlBr2	2386-62-1
+Chromium bromide	Br2Cr	10049-25-9
+Pentane, 3-ethyl-2-methyl-	C8H18	609-26-7
+Stibine, triphenyl-	C18H15Sb	603-36-1
+Bis(3,4-dichlorophenylthio)methane	C13H8Cl4S2	106241-40-1
+2,6-Dichlorophenyl isothiocyanate	C7H3Cl2NS	6590-95-0
+4-Quinolinol, 2-methyl-	C10H9NO	607-67-0
+2-Pyridineethanol	C7H9NO	103-74-2
+3-Octadecene, (E)-	C18H36	7206-19-1
+Deuterium	D2	7782-39-0
+Trisilver trichloride	Ag3Cl3	12444-96-1
+2,3-Dioxabicyclo[2.2.2]octane,1-methyl-4-(1-methylethyl-	C10H18O2	5718-73-0
+1-(2-furyl)-2-hydroxyethanone	C6H6O3	17678-19-2
+Ag37	Ag37	149983-53-9
+Hexane, 3-ethyl-	C8H18	619-99-8
+Sodium pentamer	Na5	39297-87-5
+2-Butanone, 1,1-dichloro-3,3-dimethyl-	C6H10Cl2O	22591-21-5
+1H-Inden-1-one, 2,3-dihydro-5,7-dimethyl-	C11H12O	6682-69-5
+&#946;-Glucopyranose, TMS	C21H52O6Si5	2775-90-8
+Endo-5-vinylbicyclo[2.2.1]hept-2-ene	C9H12	117110-17-5
+3,4-Dimethylbenzophenone	C15H14O	2571-39-3
+Cyclononasiloxane, octadecamethyl-	C18H54O9Si9	556-71-8
+Chlomethoxyfen	C13H9Cl2NO4	32861-85-1
+3,5-Dinitrosalicylic acid	C7H4N2O7	609-99-4
+Naphthalene, 1,5-bis(methylthio)-	C12H12S2	10075-74-8
+Indeno[1,2-b]azirin-6(1H)-one,1a,6a-dihydro-1-(4-methoxyphenyl)-	C16H13NO2	55507-32-9
+[9]Helicene	C38H22	20495-14-1
+4,4-Dipropylheptane	C13H28	17312-72-0
+2,3-Diamino-2,3-dimethylbutane	C6H16N2	20485-44-3
+Nickel meso-tetraphenylporphine	C44H28N4Ni	14172-92-0
+N-Phenyltrifluoromethanesulfonimide	C8H5F6NO4S2	37595-74-7
+Butane, 2-iodo-, (.+/-.)-	C4H9I	52152-71-3
+Propyl 2-bromobutanoate	C7H13BrO2	5459-97-2
+Cyclohexanecarboxylic acid, 1-ethyl, methyl ester	C10H18O2	4630-81-3
+15,16-diazatricyclo[8.4.1.13,8]hexadeca-1,3,5,7,9,11,13-heptaene	C14H12N2	75863-17-1
+2,2'-Dichlorobenzil	C14H8Cl2O2	21854-95-5
+N,N'-Bis(2-fluoro-2,2-dinitroethyl)ethanediamide	C6H6F2N6O10	40488-97-9
+Phosphoramidous acid, 2,4-xylyl-, diethyl ester	C12H20NO2P	95845-11-7
+2-Heptanol, 5-ethyl-	C9H20O	19780-40-6
+1,2,4-Triazine, 3-methyl-	C4H5N3	24108-33-6
+Cyclobutanol	C4H8O	2919-23-5
+Bicyclo(3.3.1)non-2-ene	C9H14	6671-66-5
+(CH3)2N-CH=N-(1-Ad)	C13H22N2	133835-18-4
+4-Chlorophenylchlorothionoformate	C7H4Cl2OS	937-64-4
+3,3'-Bithiophene	C8H6S2	3172-56-3
+Acetamide, n-(6-chloro-5-nitro-4-oxo-3,4-dihydro-pyrimidin-2-yl)-	C6H5ClN4O4	51471-45-5
+Xenon difluoride	F2Xe	13709-36-9
+Borazine,2,4,6-trifluoro-1,3,5-trimethyl-	C3H9B3F3N3	13722-15-1
+Hydantoin, 5-(1-ethyl-n-pentyl)-3-(trichloromethylthio)-	C11H17Cl3N2O2S	5588-20-5
+Nonadecane, 2-methyl-	C20H42	1560-86-7
+3-Methyl-d3-phenanthrene	C15H9D3	13720-02-0
+anthracene, compd. with 2,4,6-trinotrophenol(1:1)	C20H13N3O7	17356-96-6
+2-tert-Butoxytetrahydrofuran	C8H16O2	1927-59-9
+&#946;-Methyl-(d)-glucoside	C7H14O6	709-50-2
+Anthracene, 9,10-diphenyl-	C26H18	1499-10-1
+2-Me-phenoxy	C7H7O	3174-49-0
+trans-1-Methoxycyclopentadecene	C16H30O	78289-15-3
+1H-Tetrazole, 5-m-toluidine-	C8H9N5	14832-61-2
+ethyl 5-hexenoate	C8H14O2	500027-11-2
+3,4-Methylenedioxyphenylacetonitrile	C9H7NO2	4439-02-5
+3-Chloro-2-methylbenzonitrile	C8H6ClN	54454-12-5
+N,N'-Diethyl-N,N'-diphenylurea	C17H20N2O	85-98-3
+2-Methoxy-3-phenylbutene	C11H14O	91460-60-5
+Phosphonic acid, (p-hydroxyphenyl)-	C6H7O4P	33795-18-5
+3-Benzylquinoline	C16H13N	37045-16-2
+Phenol, 2-(1-methylbutyl)-	C11H16O	87-26-3
+Thioacrolein	C3H4S	53439-64-8
+Phenyl benzenesulfinyl sulfone	C12H10O3S2	784-81-6
+9,10-Anthracenedione, 1-chloro-	C14H7ClO2	82-44-0
+Bicyclo[3.1.1]heptan-3-ol, 2,6,6-trimethyl-, [1r-(1&#945;,2&#946;,3&#946;,5&#945;)]-	C10H18O	2734-31-8
+Benzoic acid, 4-(dimethylamino)-	C9H11NO2	619-84-1
+1-[2-(4-Nitrophenyl)ethyl]pyridinium	C13H13N2O2	118177-67-6
+N-(Trimethylsilyl)acetamide	C5H13NOSi	13435-12-6
+1,5-p-menthadien-8-ol	C10H16O	1686-20-0
+nitropropane	C3H7NO2	25322-01-4
+CI radical	CI	3889-78-9
+5-Isothiazolecarboxaldehyde	C4H3NOS	5242-57-9
+Dispiro[2.2.2.2]decane	C10H16	24518-94-3
+Thiophene, 2,3,5-trimethyl-	C7H10S	1795-05-7
+CH3Si radical	CH3Si	12538-78-2
+2-octadecyne	C18H34	61847-97-0
+Benzene, 1-methyl-4-(dimethoxymethyl)-	C10H14O2	3395-83-3
+c-C6H11COOCH3	C8H14O2	4630-82-4
+Pentane, 3-methyl-	C6H14	96-14-0
+Tertiary octyl amine	C8H19N	60996-53-4
+Dichloroamine	HCl2N	3400-09-7
+4-Chloro-2-butanone	C4H7ClO	6322-49-2
+Triethylamine	C6H15N	121-44-8
+6-Methyl-4-oxo-1,2,3a,7-tetrazaindene	C6H6N4O	41081-90-7
+1,4-Ethanonaphtho[1,8-ef]-1,4-diazepine,2,3-dihydro-	C14H14N2	59950-41-3
+Dimethylpropanedioic acid dimethyl ester	C7H12O4	6065-54-9
+10H-Phenothiazine, 10-[2-(1-methyl-2-piperidyl)ethyl]-2-methylthio-	C21H26N2S2	50-52-2
+Methyl trifluoromethyl disulfide	C2H3F3S2	14410-21-0
+Naphthalene, decahydro-7-isopropenyl-4a-methyl-1-methylene-	C15H24	19069-44-4
+Nitrogen cation	N2+	13966-04-6
+Hydroxyzine base	C21H27ClN2O2	68-88-2
+1H-Pyrrole, 1-[tris(1-methylethyl)silyl]-	C13H25NSi	87630-35-1
+Benzaldehyde, 4-nitro-	C7H5NO3	555-16-8
+HFeCl	HClFe	88610-39-3
+Acetamide, 2,2'-thiobis-	C4H8N2O2S	14618-65-6
+2-propyl-thiacyclopentane	C7H14S	1551-34-4
+2- Bromopropionic acid, octyl ester	C11H21BrO2	24625-82-9
+1,3-Thiazine-6-one-4-ol, 2-phenyl-	C10H7NO2S	65235-90-7
+Oxygen monofluoride	FO	12061-70-0
+Stannane,(4-chlorophenyl)trimethyl-	C9H13ClSn	14064-15-4
+adenosine-5'-monophosphate, TMS	C25H54N5O7PSi5	32653-14-8
+2-Chlorobenzoic acid, 4-tolyl ester	C14H11ClO2	6280-48-4
+2-Nitrophenyl isocyanate	C7H4N2O3	3320-86-3
+3-methyl-2,4-dithiapentane	C4H10S2	7379-30-8
+Benzene, 1-methyl-4-nitro- anion	C7H7NO2-	34509-96-1
+1,1,1,4-Tetranitrobutane	C4H6N4O8	20919-96-4
+2',4'-Dimethoxyacetophenone	C10H12O3	829-20-9
+2,4,6-Trimethyl-1,3,5-triselenacyclohexane	C6H12Se3	15732-69-1
+1,4-butanediamine	C4H12N2	110-60-1
+Benzene, ethenylpentafluoro-	C8H3F5	653-34-9
+Propanedinitrile, (ethoxymethylene)-	C6H6N2O	123-06-8
+Urea diTBDMS	C13H32N2OSi2	82475-73-8
+5,8-Ethano-1H-pyrazolo[1,2-a]pyridazine, 2,2-diethylhexahydro-	C13H24N2	23211-28-1
+2,6-Diiodo-4-nitrophenol	C6H3I2NO3	305-85-1
+4-Chloro-1-trimethylsilyloxybenzene	C9H13ClOSi	17005-59-3
+8-methyloctadecane	C19H40	26741-17-3
+1H-Indole, 5-fluoro-	C8H6FN	399-52-0
+Acetic acid, chloro-, 1,1-dimethylethyl ester	C6H11ClO2	107-59-5
+Ethanol, 2,2'-oxybis-, dibenzoate	C18H18O5	120-55-8
+1-Nitro-2,4,6-trimethoxybenzene	C9H11NO5	14227-18-0
+2,4-Imidazolidinedione, 5,5-dimethyl-	C5H8N2O2	77-71-4
+1H-Imidazole,4,5-dihydro-2-[(4-methoxyphenyl)methyl]-	C11H14N2O	71609-39-7
+9,10-Anthracenedione, 1-hydroxy-	C14H8O3	129-43-1
+Germanium ditelluride	GeTe2	12260-55-8
+Plumbane, (1,1-dimethylethyl)trimethyl-	C7H18Pb	32997-03-8
+3-Hexene, 3-methoxy-2-methyl-, (Z)-	C8H16O	66017-21-8
+Trimethylstyrene	C11H14	769-57-3
+Dimaleimide, n,n'-p-phenylene-	C14H8N2O4	3278-31-7
+trans-2,3-Dichloro-1,1,1,4,4,4-hexafluoro-2-butene	C4Cl2F6	303-04-8
+Cyclopropane, 1,1-dimethyl-2-(1-methylethenyl)-	C8H14	1121-35-3
+3(5)-t-butylpyrazole	C7H12N2	15802-80-9
+Spiro[4.4]nona-1,3,6,8-tetraene	C9H8	14867-83-5
+Sumatriptan	C14H21N3O2S	103628-46-2
+Ionone	C13H20O	8013-90-9
+1,5-dicyclohexyl-3-(2-cyclohexylethyl)pentane	C25H46	2090-16-6
+p-Decyloxyaniline	C16H27NO	39905-47-0
+Uranium fluoride (U2F9)	F9U2	12134-48-4
+C2H	C2H	16456-59-0
+.alpha.-Isopropylideneaminooxypropionic acid	C6H11NO3	5001-36-5
+Tin monotungstate	O4SnW	14553-36-7
+2-(2,4,5-Trichlorophenoxy)ethyl 2,2,3-trichloropropanoate	C11H8Cl6O3	99973-91-8
+1,7-Diazabicyclo[5.5.4]hexadecane	C14H28N2	88885-92-1
+cis,cis-1,6-Cyclodecadiene	C10H16	1124-79-4
+Manganese, tetrafluoro-	F4Mn	15195-58-1
+Benzene, 1,4-dimethyl-2-nitro-	C8H9NO2	89-58-7
+		158296-69-6
+Dimethane sulfonamide	C2H7NO4S2	5347-82-0
+1-Butylpyrrolidine	C8H17N	767-10-2
+Phenol, 3-propyl-	C9H12O	621-27-2
+Propane, 1,2-dimethoxy-	C5H12O2	7778-85-0
+H2GeO	H2GeO	78812-54-1
+3,4-Dioxymethylenebenzyliden-5,6,7,8-tetrahydronaphthyl-2-acetonitrile	C20H17NO2	21848-17-9
+Heptane, 3,4-dimethyl-	C9H20	922-28-1
+Methylene, bromofluoro-	CBrF	4539-11-1
+Methanone, diphenyl-, hydrazone	C13H12N2	5350-57-2
+Isatin	C8H5NO2	91-56-5
+Chromium tris(bis(trimethylsilyl)amide)	C18H54CrN3Si6	37512-31-5
+Cyclohexasilane, dodecamethyl-	C12H36Si6	4098-30-0
+Benzoic acid, 4-chloro-3-hydroxy-	C7H5ClO3	34113-69-4
+s-Methyl-L-cysteine	C4H9NO2S	1187-84-4
+(E)-2-Methoxy-1-(o-methoxyphenyl)propene	C11H14O2	101948-74-7
+Bicyclo[2.2.1]heptane, 1-nitro-2-methylene-3,3-dimethyl-	C10H15NO2	6244-05-9
+Cyclohexane, nitro-	C6H11NO2	1122-60-7
+n-Butyl pentenoate	C9H18O2	591-68-4
+2-C-Methylribonic acid, pentakis-TMS	C21H52O6Si5	38166-01-7
+1-Bromo-2,2-dimethoxypropane	C5H11BrO2	126-38-5
+Bicyclo[2.2.1]heptane,2-methoxy-endo-	C8H14O	10395-55-8
+Heptane, 3-ethyl-2-methyl-	C10H22	14676-29-0
+Methanone, phenyl[2,4,6-tris(methylethyl)phenyl]-	C22H28O	33574-11-7
+Cyclopentanol, 2-methyl-, cis-	C6H12O	25144-05-2
+3-Methoxypropionitrile	C4H7NO	33695-59-9
+1,4:5,8-Dimethanonaphthalene, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-, endo,exo-	C12H8Cl6	34487-55-3
+4H-1,2,3-Triazole-4-thione, 2,3-dihydro-2,3-dimethyl-	C4H7N3S	64808-28-2
+Pyridine, 2-[1-(2-fluorophenyl)ethenyl-	C13H10FN	74309-53-8
+3-(N,n-di-n-pentylamino)-2,5-dimethyl pyrazine	C16H29N3	116402-81-4
+Ethane, 1,2-diiodo-	C2H4I2	624-73-7
+Sodium trimer, positive ion	Na3+	12767-53-2
+1,2-Diazacyclohexane, 1,2,3,3,6,6-hexamethyl-	C10H22N2	60678-80-0
+Naphthalene, 5-ethyl-1,2,3,4-tetrahydro-	C12H16	42775-75-7
+Stannane, dimethyldipropyl-	C8H20Sn	56535-52-5
+Cyclohexanol, 5-methyl-2-(1-methylethyl)-, [1R-(1&#945;,2&#946;,5&#945;)]-	C10H20O	2216-51-5
+m-Xylene, 2-methoxy-5-nitro-,	C9H11NO3	14804-39-8
+trans-2,5-Dimethyl-1,3-oxathiolane	C5H10OS	38348-51-5
+2,4-Dichlorobenzoic acid, 2,4-dimethyl phenyl ester	C15H12Cl2O2	116465-98-6
+S-triazolo[2,3-c]pyrimidin-2(3h)-one, 8-amino-7-chloro-	C5H4ClN5O	15129-01-8
+deoxyguanosine-5'-monophosphate, TMS	C25H54N5O7PSi5	32645-71-9
+Thorium monocarbide	CTh	12012-16-7
+m-(Trifluoromethyl)benzyl alcohol	C8H7F3O	349-75-7
+2-Phthalimidoethyl acetate	C12H11NO4	5466-90-0
+3-Pyridinamine, 4-methyl-	C6H8N2	3430-27-1
+Chromone-3-carboxaldehyde	C10H6O3	17422-74-1
+Ethanol, 2-(phenylmethoxy)-	C9H12O2	622-08-2
+2,4-Thiazolidinedione, 5-isopropylidene	C6H7NO2S	5835-47-2
+C7HF16NO4S2	C7HF16NO4S2	110874-76-5
+2,5-Diaminobenzophenone	C13H12N2O	18330-94-4
+N-benzyl-n-methylamino-acetonitrile	C10H12N2	14321-25-6
+3-Octanol, 3-methyl-	C9H20O	5340-36-3
+Benzimidazole, 4,5,6-trichloro-2-(trifluoromethyl)-	C8H2Cl3F3N2	2338-27-4
+Phenindione	C15H10O2	83-12-5
+P-benzylaminophenol	C13H13NO	103-14-0
+2,4-Hexadiene, 2,5-dimethoxy-, (E,Z)-	C8H14O2	72826-04-1
+1-Methylpyridinium	C6H8N	694-56-4
+Solasodine	C27H43NO2	126-17-0
+4-Pyrimidinol, 5-acetamido-6-amino-	C6H8N4O2	50609-15-9
+Methanaminium, 1-carboxy-N,N,N-trimethyl-, hydroxide, inner salt	C5H11NO2	107-43-7
+1-butanol, 2,2,3-trimethyl-	C7H16O	55505-23-2
+Dodecanenitrile	C12H23N	2437-25-4
+Tetratriacontane, 17-hexadecyl-	C50H102	55256-07-0
+Benzoic acid, 3,5-dinitro, benzyl ester	C14H10N2O6	10478-07-6
+2,6-Pyridinedicarbamic acid, 4-amino-3-nitro-, diethyl ester	C11H15N5O6	16335-92-5
+AlBr2	AlBr2	136684-48-5
+Manganese, bis(1-phenyl-1,3-butanedionato)-	C20H18MnO4	14128-86-0
+Oxycodone	C18H21NO4	76-42-6
+Iron, &#951;<sup>3</sup>-(2-methylallyl) tricarbonyl bromide	C7H7BrFeO3	12287-48-8
+1,7,7-Trimethyl-2-norbornanone dimethyl ketal	C12H22O2	10395-50-3
+1-methyl-3,5-diphenylpyrazole	C16H14N2	19311-79-6
+Benzaldehyde, 4-(octyloxy)-	C15H22O2	24083-13-4
+Methane, difluoro-	CH2F2	75-10-5
+Benzene,1-methoxy-4-(methylseleno)-	C8H10OSe	1694-07-1
+2-(Diethylamino)-pentanenitrile	C9H18N2	19340-91-1
+Au12	Au12	145536-88-5
+Ytterbium monoxide	OYb	25578-79-4
+Heptanoic acid, 2,2,4-trimethyl-3-hydroxy-, beta-lactone	C10H18O2	18523-60-9
+4-ethyl-2-methylquinoline	C12H13N	73348-49-9
+Benzamide, N-(4-aminophenyl)-	C13H12N2O	17625-83-1
+C8H7NO4	C8H7NO4	5027-65-6
+4-Hydroxybenzoic acid nitrile	C7H5NO	767-00-0
+Ethanol, 1,1-bis(p-chlorophenyl)-	C14H12Cl2O	80-06-8
+(Z)-3-Hexene-2,5-diol,2,5-dimethyl-	C8H16O2	6117-86-8
+Mercapto radical	HS	13940-21-1
+Fluoren-9-one, 3-bromo-	C13H7BrO	2041-19-2
+2-Monobenzoylglycerol	C10H12O4	26699-73-0
+Naphthalene,decahydro-1-methyl-(1&#945;,4a&#945;,8a&#946;	C11H20	4683-95-8
+1-Pentanone, 1-(4-bromophenyl)-	C11H13BrO	7295-44-5
+Pyrimidine, 2-amino-4-chloro-6-(ethylamino)-	C6H9ClN4	6316-09-2
+3-Hydroxy-2-naphthoyl-ortho-anisidide	C18H15NO3	135-62-6
+Bicyclo[3.2.2]nonane	C9H16	283-19-2
+1,3-Benzodithiole,2-(1,3-benzodithiol-2-ylidene)-	C14H8S4	24648-13-3
+Lysine, tri-TMS	C15H38N2O2Si3	7415-18-1
+C8H12N2O5	C8H12N2O5	474083-29-9
+4(1H)-pyrimidinone, 6-(&#946;.-D-glucopyranosylamino)-2- methoxy-	C11H17N3O7	95061-25-9
+&#948;-Hexalactone	C6H10O2	823-22-3
+1-Butene, 1-(ethylthio)-3,3-dimethyl-, (Z)-	C8H16S	64707-11-5
+Urea, 1-(p-fluorophenyl)-3-methyl-	C8H9FN2O	772-55-4
+&#945;-Pinene(dextro)	C10H16	7785-70-8
+[2.2]-Paracyclophane, 2,5-dimethoxy-3',6'-dinitro-	C18H18N2O6	55076-09-0
+1,3-Dioxolane, 2-phenyl-	C9H10O2	936-51-6
+1,5-Dihydroxy-1,2,3,4-tetrahydronaphthalene	C10H12O2	40771-26-4
+3-Bromo-2-hydroxy-5-nitrobenzaldehyde	C7H4BrNO4	16789-84-7
+Acetamide, N-acetyl-N-9H-fluoren-2-yl-	C17H15NO2	642-65-9
+Rhenium, pentacarbonylhydro-	C5HO5Re	16457-30-0
+2-Furanmethanamine, tetrahydro-	C5H11NO	4795-29-3
+1-Butene, 1,1,2,3,3,4,4,4-octafluoro-	C4F8	357-26-6
+2-Chloroethyl phenyl sulfoxide	C8H9ClOS	27998-60-3
+Z-9-tetradecenyl acetate	C16H30O2	16725-53-4
+C6H5CD3	C7H5D3	1124-18-1
+6-Methyl, 2-methylmercapto-4-oxo-1,3,3a,7-tetrazaindene	C7H8N4OS	89853-03-2
+1,2,5-trimethyl-naphthalene	C13H14	641-91-8
+2-Acetyl-5-nitrothiophene	C6H5NO3S	39565-00-9
+[18]-Annulene	C18H18	2040-73-5
+4-(Methylsulfonyl)phenol	C7H8O3S	14763-60-1
+3,3,4,4,7,7,8,8,11,11,12,12,15,15,16,16-Hexadecafluoropentacyclo[12.2.0.0.0.0<sup>2,5</sup>.0<sup>5,9</sup>.0<sup>10,13</sup>] hexadeca-1,5,9,13-tetraene	C16F16	42858-85-5
+1,2,3,4-Tetrahydronaphthalene-d12	C10D12	75840-23-2
+M-ethylphenyl acetate	C10H12O2	3056-60-8
+4,4'-Dithiobis(3-benzoylamino-1-butanol benzoate)	C36H36N2O6S2	96772-45-1
+Dysprosium monochloride	ClDy	63944-04-7
+1,1-Dimethyl-2-ethyl-cyclopropane	C7H14	41845-47-0
+2,2'-Diethyl-5,5'-azotetrazole	C6H10N10	74999-25-0
+Cyclohexene, 1-bromo-	C6H9Br	2044-08-8
+2,3-Butanedione, monooxime	C4H7NO2	57-71-6
+1-Pentyn-3-ol, 3-methyl-1-phenyl-	C12H14O	1966-65-0
+2,4,6-Trimethyldiphenylsulphone	C15H16O2S	3112-82-1
+Propyl tetradecanoate	C17H34O2	14303-70-9
+5-N-hexyl-2-methyl-delta<sup>2</sup>-thiazoline	C10H19NS	4233-81-2
+1-Pentanone, 1-(4-fluorophenyl)-	C11H13FO	709-24-0
+2-Mercapto-1,4-naphthoquinone	C10H6O2S	116401-72-0
+S(CN)2+	C2N2S+	77275-71-9
+P-phenylazo carbanilic acid, phenethyl ester	C21H19N3O2	95937-85-2
+1H-Indole, 4-methyl-	C9H9N	16096-32-5
+(Z)-3-Hydroxy-2-butenoate	C5H8O3	4525-25-1
+Phosphoroselenoic acid, o,o',o''-trimethyl-	C3H9O3PSe	152-19-2
+Stannane, chlorotrimethyl-	C3H9ClSn	1066-45-1
+Benzene, 1,3-diisocyanato-2-methyl-	C9H6N2O2	91-08-7
+2,5-Dimethyl-1,4-dipropionitrile piperazine	C12H20N4	4236-65-1
+Dihydrogen polonide	H2Po	31060-73-8
+Butanamide, N-butyl-3-methyl	C9H19NO	76526-42-6
+Urea, [2-(3,4-dichlorophenyl)cyclopropyl]-	C10H10Cl2N2O	90793-41-2
+sym-C6F3Br3+	C6Br3F3+	74336-50-8
+Cyclohexanepropionic acid, 1-nitro methyl ester	C10H17NO4	71648-41-4
+Cyclopropanecarboxaldehyde	C4H6O	1489-69-6
+Valeric anhydride	C10H18O3	2082-59-9
+2-Methyl-4-chloro-4'-benzyloxyazobenzene	C20H17ClN2O	88578-28-3
+3H-v-triazolo[4,5-d]pyrimidine, 5-amino-3-ethyl-7-hydroxy-	C6H8N6O	5457-90-9
+Ethanol	C2H6O	64-17-5
+Valeraldehyde, dimethylhydrazone	C7H16N2	14090-57-4
+Mercury decamer	Hg10	135371-66-3
+1-hexanol, 3-ethyl-2-methyl-	C9H20O	66794-01-2
+N,N-Dimethyl-2-pyridinamine	C7H10N2	5683-33-0
+Pyridazine,1,2,3,6-tetrahydro-1,2,3-trimethyl-	C7H14N2	38704-94-8
+CH2F2+	CH2F2+	66177-07-9
+Undecane, 6-pentyl-1-(5,6,7,8-tetrahydro-2-naphthyl)-,	C26H44	2656-02-2
+Nonane, 5-butyl-	C13H28	17312-63-9

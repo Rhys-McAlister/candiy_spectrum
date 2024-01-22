@@ -76,7 +76,7 @@ parser.add_argument('--cas_list', default= 'species.txt',\
     help = "File containing CAS number and formula of molecules")
 parser.add_argument('--scrap_IR', default= True,\
     help = "Whether to download IR or not")
-parser.add_argument('--scrap_MS', default= True,\
+parser.add_argument('--scrap_MS', default= False,\
     help = "Whether to download MS or not")
 parser.add_argument('--scrap_InChi', default= True,\
     help = "Whether to download InChi or not")
@@ -104,10 +104,7 @@ cas_ids = list(cas_df.cas)
 
 
 
-logging.info('Scrap Mass spectra')
-if args.scrap_MS:
-	params = params={'JCAMP': '',  'Index': 0, 'Type': 'Mass'}
-	scrap_data(cas_ids, params, data_dir)
+
 
 logging.info('Scrap IR spectra')
 if args.scrap_IR:
@@ -118,3 +115,8 @@ logging.info('Scrap InChi keys')
 if args.scrap_InChi:
 	params={}
 	scrap_inchi(cas_ids, params, data_dir)
+
+logging.info('Scrap Mass spectra')
+if args.scrap_MS:
+	params = params={'JCAMP': '',  'Index': 0, 'Type': 'Mass'}
+	scrap_data(cas_ids, params, data_dir)

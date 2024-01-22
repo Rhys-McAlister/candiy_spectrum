@@ -4,7 +4,9 @@ import logging
 import argparse
 import json
 
+
 import tensorflow as tf
+
 tf.get_logger().setLevel('ERROR')
 
 from model.utils import set_logger, train_test_generator
